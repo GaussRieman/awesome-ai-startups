@@ -1,0 +1,1182 @@
+Y Combinator
+AboutCompaniesStartup JobsFind a Co-FounderLibrarySAFEResources
+Apply for F2025 batch.Apply
+Home
+›
+Companies
+›
+Blue
+
+Blue
+The first voice assistant that can control every app on your phone.
+Summer 2025
+Active
+hardware
+speech-recognition
+ai
+ai-assistant
+Santa Clara
+Company
+Jobs
+0
+ https://heyblue.com/
+Blue is the first voice assistant that can control every app on your phone.
+
+Most assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot message your friends on Messenger, send money on Venmo, or compare ride-share prices to book the best option.
+
+Blue can do all of this and more.
+
+It taps, swipes, and types like a human on both Android and iPhone, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware.
+
+It already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.
+
+Our team brings rare and highly complementary experience. Omar led Google Assistant’s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple’s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.
+
+Together, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.
+Active Founders
+Omar Abdelaziz
+Omar Abdelaziz
+Founder
+Hello!
+LinkedIn
+Twitter account
+ 
+Farhan Hossain
+Farhan Hossain
+Founder
+I’m a mechanical and product design engineer focused on building thoughtful tools for the real world. I hold 50+ patents in hardware and manufacturing, and I care deeply about how things are made and who they’re made for. For over a decade, I’ve worked across robotics, wearables, and consumer electronics. As one of the first engineers on the Apple Vision Pro, I took that product from concept to mass production.
+ 
+Peter Krogh
+Peter Krogh
+Founder
+I teach computers how to talk. For 20 years this was primarily a deterministic process of design/engineer/tune, but with the arrival of LLMs it now looks more like show/convince/tune. AI is weird, but if it can't be taught how to have a normal spoken conversation with a person, it's not going to work. This is what I work on.
+ 
+Blue
+Blue
+Founded:
+2024
+Batch:
+Summer 2025
+Team Size:
+3
+Status:
+Active
+Location:
+Santa Clara, CA
+Primary Partner:
+Tyler Bosmeny
+ 
+X (Twitter) logo
+ 
+Footer
+Y CombinatorY Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.Apply
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+© 2025 Y Combinator
+
+
+0 notifications total
+
+Skip to search
+
+Skip to main content
+
+Keyboard shortcuts
+Close jump menu
+Search
+Home
+My Network
+Jobs
+Messaging
+1
+1 new notification
+Notifications
+Frank Xiang
+Me
+
+For Business
+Background Image
+Peter Krogh
+Peter Krogh 
+  2nd degree connection2nd
+Model UX Lead at Google Deep Mind
+
+Google DeepMind
+
+Cornish College of the Arts
+Mountain View, California, United States  Contact info
+500+ connections
+
+Connect
+
+Message
+
+More
+AboutAbout
+Portfolio:
+
+http://www.dialoguearchitect.com/
+
+I architect, design, and build speech and multi-modal interactions. My background in dialogue systems, mobile technology, and theatre has given me a unique perspective on the challenges facing the new generation of consumer devices that are just now coming to market.
+
+Dialogue architecture is more important than ever when designing for smart speakers, social robots, chat agents, and even traditional IVR. Now that multiple I/O channels compete for product attention, understanding the capabilities and limitations of natural language interaction is key to success.
+
+I’ve spent over four years working in social robotics and 18 working with interaction architecture, dialogue design, and NLP (natural language processing.)
+
+Specific skills include:
+
+Design & Engineering:
+- Skills design and development
+- Voice User Interface (VUI) Design
+- Interaction Architecture
+- Human Computer Interaction (HCI) design
+- HRI design
+- IoT integration
+- Character/Persona development and design
+- Social robotics design
+- NLU grammar/rule authoring and tuning
+- Performance Analysis
+- User Research design and analysis
+- Usability and WoZ Testing
+- TTS voice creation
+- Talent Coaching
+- Mobile design on iOS, Android, HTML
+- Audio and film production
+- Tools design
+
+Business & Product Development
+- Product strategy
+- ROI calculations and competitive analyses
+- Sales engineering
+- Requirements, business analysis, and API authoring
+- Social media campaigns
+- Blog authoring
+- Technical troubleshooting methodology
+- Customer care systems expertisePortfolio: http://www.dialoguearchitect.com/ I architect, design, and build speech and multi-modal interactions. My background in dialogue systems, mobile technology, and theatre has given me a unique perspective on the challenges facing the new generation of consumer devices that are just now coming to market. Dialogue architecture is more important than ever when designing for smart speakers, social robots, chat agents, and even traditional IVR. Now that multiple I/O channels compete for product attention, understanding the capabilities and limitations of natural language interaction is key to success. I’ve spent over four years working in social robotics and 18 working with interaction architecture, dialogue design, and NLP (natural language processing.) Specific skills include: Design & Engineering: - Skills design and development - Voice User Interface (VUI) Design - Interaction Architecture - Human Computer Interaction (HCI) design - HRI design - IoT integration - Character/Persona development and design - Social robotics design - NLU grammar/rule authoring and tuning - Performance Analysis - User Research design and analysis - Usability and WoZ Testing - TTS voice creation - Talent Coaching - Mobile design on iOS, Android, HTML - Audio and film production - Tools design Business & Product Development - Product strategy - ROI calculations and competitive analyses - Sales engineering - Requirements, business analysis, and API authoring - Social media campaigns - Blog authoring - Technical troubleshooting methodology - Customer care systems expertise
+ActivityActivity
+1,295 followers1,295 followers
+
+
+Posts
+
+Comments
+
+Images
+Loaded 5 Posts posts
+View Peter Krogh’s  graphic link
+Peter KroghPeter Krogh
+   • 2ndVerified • 2nd
+Model UX Lead at Google Deep MindModel UX Lead at Google Deep Mind
+1mo •  1 month ago • Visible to anyone on or off LinkedIn
+
+After nearly 7 years at Google, the siren song of start-up land has proven too tempting to withstand. I'll share more details about my venture backed by Y Combinator as I'm able.
+
+Love and gratitude to all my friends at Google DeepMind, with special shout-outs to my CxD partners in crime April P., Daniel Padgett, Jonathan Bloom, and Jared Strawderman.
+…more
+Activate to view larger image,
+No alternative text description for this image
+Activate to view larger image,
+likecelebratelove
+228
+48 comments
+
+
+
+
+Peter’s profile photo
+Peter Krogh reposted this
+
+View Omar Abdelaziz’s  graphic link
+Omar AbdelazizOmar Abdelaziz
+   • 2ndVerified • 2nd
+Founder of L5 Assistant (YC S25), ex-GoogleFounder of L5 Assistant (YC S25), ex-Google
+3mo • Edited •  3 months ago • Edited • Visible to anyone on or off LinkedIn
+Looking for 10 more people with Android phones that want a $100 Amazon gift card (or local equivalent) to download a screen recording app on their phone for 2 days. DM or comment if interested.
+like
+7
+1 comment
+1 repost
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Google DeepMind logo
+Model UX Lead
+Model UX Lead
+Google DeepMind · Full-timeGoogle DeepMind · Full-time
+Nov 2024 - Present · 10 mosNov 2024 to Present · 10 mos
+Mountain View, California, United States · HybridMountain View, California, United States · Hybrid
+I train Gemini models to serve actions using both spoken dialog (Gemini Live) and text (Gemini Apps.) I also design and implement novel tuning methodologies including SFT, SI, CoT, and others.I train Gemini models to serve actions using both spoken dialog (Gemini Live) and text (Gemini Apps.) I also design and implement novel tuning methodologies including SFT, SI, CoT, and others.
+Google logo
+Staff Model UX Designer - Gemini
+Staff Model UX Designer - Gemini
+Google · Full-timeGoogle · Full-time
+Feb 2024 - Nov 2024 · 10 mosFeb 2024 to Nov 2024 · 10 mos
+Mountain View, California, United States · HybridMountain View, California, United States · Hybrid
+Model UX Lead for Gemini Actions, including Calendar, YouTube Music, Tasks, WhatsApp, Google Home, Tasks, Calling, Keep, etc. Responsible for both model content and the UX+data approach, including SFT, System Instructions, weighting, etc.
+
+Voice-only modeling lead for Gemini Live
+
+If you’ve used any of these features on Gemini, you’ve experienced my designsModel UX Lead for Gemini Actions, including Calendar, YouTube Music, Tasks, WhatsApp, Google Home, Tasks, Calling, Keep, etc. Responsible for both model content and the UX+data approach, including SFT, System Instructions, weighting, etc. Voice-only modeling lead for Gemini Live If you’ve used any of these features on Gemini, you’ve experienced my designs
+Google logo
+Google
+Google
+Full-time · 4 yrs 5 mosFull-time · 4 yrs 5 mos
+Staff Conversation Designer - Assistant NLP
+Staff Conversation Designer - Assistant NLP
+Aug 2022 - Feb 2023 · 7 mosAug 2022 to Feb 2023 · 7 mos
+Mountain View, California, United States · HybridMountain View, California, United States · Hybrid
+Tuned the first LLM deployed on Google Assistant using a variety of novel methods based off of SFT, RLHF, etc.
+
+Revamped design exercises and interview questions for the “Conversation Designer” role at Google.Tuned the first LLM deployed on Google Assistant using a variety of novel methods based off of SFT, RLHF, etc. Revamped design exercises and interview questions for the “Conversation Designer” role at Google.
+Acting Product Manager & UX Lead
+Acting Product Manager & UX Lead
+Nov 2020 - Aug 2022 · 1 yr 10 mosNov 2020 to Aug 2022 · 1 yr 10 mos
+Mountain View, California, United States · On-siteMountain View, California, United States · On-site
+Defined, scoped, and launched an internal Conversation Design tool that offers multi-modal dialog state machines, independent application logic, intent definition, and Figma integration
+
+Managed UX deliverables and scoped eng work for a team of 4 SWEs
+
+Trained and on-boarded all Google Conversation Designers to the new toolDefined, scoped, and launched an internal Conversation Design tool that offers multi-modal dialog state machines, independent application logic, intent definition, and Figma integration Managed UX deliverables and scoped eng work for a team of 4 SWEs Trained and on-boarded all Google Conversation Designers to the new tool
+Senior Conversation Designer - Manager
+Senior Conversation Designer - Manager
+Oct 2018 - Nov 2020 · 2 yrs 2 mosOct 2018 to Nov 2020 · 2 yrs 2 mos
+Mountain View, CA · On-siteMountain View, CA · On-site
+Productivity design lead. Increased DAU and SAI, and decreased punts for every feature I worked on.
+
+Designed a patent-pending method for presenting succinct, relevant content in response to ambiguous user queries
+
+Managed a team of Conversation DesignersProductivity design lead. Increased DAU and SAI, and decreased punts for every feature I worked on. Designed a patent-pending method for presenting succinct, relevant content in response to ambiguous user queries Managed a team of Conversation Designers
+Jibo logo
+Robot Experience Designer
+Robot Experience Designer
+Jibo, Inc.Jibo, Inc.
+Jan 2015 - Jun 2018 · 3 yrs 6 mosJan 2015 to Jun 2018 · 3 yrs 6 mos
+Greater Boston Area, Northern CaliforniaGreater Boston Area, Northern California
+Led Dialogue Design and User Experience to create engaging, robust, social interactions with Jibo. Interactions combine the I/O streams of dialogue, GUI, haptics, and body movement.
+
+Designed and shipped 12+ production skills including iHeart Radio, Daily Report, Philips Hue IoT integration, Word of the Day game, Idle and error policies.
+
+Developed social robotics CxD best practices, co-created a custom TTS engine, trained 2nd party developers, created a method for abstracting dialogs into state machines, and designed a long-term memory system so Jibo can play a more meaningful role in his home.Led Dialogue Design and User Experience to create engaging, robust, social interactions with Jibo. Interactions combine the I/O streams of dialogue, GUI, haptics, and body movement. Designed and shipped 12+ production skills including iHeart Radio, Daily Report, Philips Hue IoT integration, Word of the Day game, Idle and error policies. Developed social robotics CxD best practices, co-created a custom TTS engine, trained 2nd party developers, created a method for abstracting dialogs into state machines, and designed a long-term memory system so Jibo can play a more meaningful role in his home.
+
+jibo_g_24_wEye_reduced.jpgjibo_g_24_wEye_reduced.jpg
+Synchronoss Technologies logo
+Director of Solutions Architecture
+Director of Solutions Architecture
+Synchronoss TechnologiesSynchronoss Technologies
+Feb 2010 - Jan 2015 · 5 yrsFeb 2010 to Jan 2015 · 5 yrs
+Nevada City, CANevada City, CA
+Tools and applications architecture leadership for the RPA Express platform. Applications currently deployed with domestic Fortune 100 and international clients, processing over four million calls per month.Tools and applications architecture leadership for the RPA Express platform. Applications currently deployed with domestic Fortune 100 and international clients, processing over four million calls per month.
+
+SmartCareSmartCare
+Show all 14 experiences
+EducationEducation
+Cornish College of the Arts logo
+Cornish College of the Arts
+Cornish College of the Arts
+BFA, Acting, Directing, PlaywritingBFA, Acting, Directing, Playwriting
+1986 - 19891986 - 1989
+Principia College logo
+Principia College
+Principia College
+English, TheatreEnglish, Theatre
+1985 - 19861985 - 1986
+Show all 3 educations
+VolunteeringVolunteering
+Secretary
+Secretary
+Secretary
+Nevada Union Runners BoostersNevada Union Runners Boosters
+Sep 2017 - Jun 2019 · 1 yr 10 mosSep 2017 - Jun 2019 · 1 yr 10 mos
+HealthHealth
+Secretary of the 'Nevada Union Runners Boosters' club, a parent-led organization to raise and distribute money for the N.U. Cross Country and Track teams.Secretary of the 'Nevada Union Runners Boosters' club, a parent-led organization to raise and distribute money for the N.U. Cross Country and Track teams.
+SkillsSkills
+Mobile Applications
+Mobile Applications
+Katelyn Friedson profile picture
+Endorsed by Katelyn Friedson who is highly skilled at thisEndorsed by Katelyn Friedson who is highly skilled at this
+Google logo
+Endorsed by 2 colleagues at GoogleEndorsed by 2 colleagues at Google
+48 endorsements
+48 endorsements
+Usability Testing
+Usability Testing
+James R. Lewis profile picture
+Endorsed by James R. Lewis and 1 other who is highly skilled at thisEndorsed by James R. Lewis and 1 other who is highly skilled at this
+Google logo
+Endorsed by 2 colleagues at GoogleEndorsed by 2 colleagues at Google
+36 endorsements
+36 endorsements
+Show all 44 skills
+RecommendationsRecommendations
+ReceivedReceived
+GivenGiven
+Adam Shonkoff
+Adam Shonkoff
+Adam Shonkoff
+· 3rdThird degree connection
+Content Designer/Writer for Spotify's AI DJContent Designer/Writer for Spotify's AI DJ
+June 5, 2018, Adam worked with Peter on the same teamJune 5, 2018, Adam worked with Peter on the same team
+I was lucky enough to work closely with Peter for more than two years on the design team at Jibo. Peter is one of a kind. He tackles every challenge with enthusiasm, intellectual curiosity, a highly analytical mind, creativity, honesty, humor, and technical skill. He was a natural leader on our Design team, always ensuring that we stayed focused on what it means to design experiences for a social robot. Among Peter’s many rare and admirable traits, I always appreciated how he balanced his own strong and thoughtful opinions with a genuine openness to others’ ideas. I highly recommend Peter for any team, and I hope we join forces again in the future. I was lucky enough to work closely with Peter for more than two years on the design team at Jibo. Peter is one of a kind. He tackles every challenge with enthusiasm, intellectual curiosity, a highly analytical mind, creativity, honesty, humor, and technical skill. He was a natural leader on our Design team, always ensuring that we stayed focused on what it means to design experiences for a social robot. Among Peter’s many rare and admirable traits, I always appreciated how he balanced his own strong and thoughtful opinions with a genuine openness to others’ ideas. I highly recommend Peter for any team, and I hope we join forces again in the future. 
+Jon Lopkin
+Jon Lopkin
+Jon Lopkin
+· 3rdThird degree connection
+Product design lead at ShopifyProduct design lead at Shopify
+March 19, 2018, Jon managed Peter directlyMarch 19, 2018, Jon managed Peter directly
+I can definitively say that Peter has made me a better designer and manager. Peter is a rare breed of designer, a skilled voice user interface architect who digs deep into business objectives to create the best possible UX. He embraces every challenge and asks the tough questions along the way. Peter is able to strike a balance of shipping minimal viable products and features while maintaining a high bar for quality and purpose. He is part designer, part engineer, part product manager—a very necessary combo for a tech startup. Peter’s diverse background, sense of humor, and passion make him a great teammate.I can definitively say that Peter has made me a better designer and manager. Peter is a rare breed of designer, a skilled voice user interface architect who digs deep into business objectives to create the best possible UX. He embraces every challenge and asks the tough questions along the way. Peter is able to strike a balance of shipping minimal viable products and features while maintaining a high bar for quality and purpose. He is part designer, part engineer, part product manager—a very necessary combo for a tech startup. Peter’s diverse background, sense of humor, and passion make him a great teammate.
+Show all 5 received
+PublicationsPublications
+The Blindness of Locals
+The Blindness of Locals
+Medium · Aug 4, 2018Medium · Aug 4, 2018
+Show publication
+When overfamiliarity with a place or an idea creates a blind spot.When overfamiliarity with a place or an idea creates a blind spot.
+What Does a Robot Want?
+What Does a Robot Want?
+Jibo Blog · Jul 29, 2014Jibo Blog · Jul 29, 2014
+Show publication
+When designed properly, a robot's "desires" in the world will be exactly as the creators intend.When designed properly, a robot's "desires" in the world will be exactly as the creators intend.
+Show all 3 publications
+CoursesCourses
+Czech language
+Czech language
+LanguagesLanguages
+Czech
+Czech
+InterestsInterests
+Top VoicesTop Voices
+CompaniesCompanies
+GroupsGroups
+NewslettersNewsletters
+SchoolsSchools
+Bill Gates
+Bill Gates
+Bill Gates
+Chair, Gates Foundation and Founder, Breakthrough EnergyChair, Gates Foundation and Founder, Breakthrough Energy
+38,444,750 followers38,444,750 followers
+
+Follow
+Laszlo Bock
+Laszlo Bock
+Laszlo Bock
+· 3rdThird degree connection
+2x start-up founder & CEO --> 2 exits | x-Google SVP of People Operations | NYT bestselling author of "Work Rules!" | Founder/Faculty at Berkeley | Board at Stanford | CEO coach2x start-up founder & CEO --> 2 exits | x-Google SVP of People Operations | NYT bestselling author of "Work Rules!" | Founder/Faculty at Berkeley | Board at Stanford | CEO coach
+1,001,363 followers1,001,363 followers
+
+Follow
+Show all Top Voices
+
+More profiles for youMore profiles for you
+Morgan Marie Quinn
+Morgan Marie Quinn
+Morgan Marie Quinn
+· 3rdThird degree connection
+Content Design lead @Google DeepMind, GeminiContent Design lead @Google DeepMind, Gemini
+
+Follow
+Jason Bice
+Jason Bice
+Jason Bice
+· 3rdThird degree connection
+Model UX @ Google Deepmnid | Conversational AI | Human-centered systems thinkerModel UX @ Google Deepmnid | Conversational AI | Human-centered systems thinker
+Message
+Jonathan Bloom
+Jonathan Bloom
+Jonathan Bloom
+· 3rdThird degree connection
+UX Lead at Google DeepMindUX Lead at Google DeepMind
+
+Message
+courtney kellner
+courtney kellner
+courtney kellner
+· 3rdThird degree connection
+Conversation Designer at GoogleConversation Designer at Google
+
+Message
+Karen Kaushansky
+Karen Kaushansky
+Karen Kaushansky
+· 3rdThird degree connection
+Conversational AI/UX Lead at Google DeepMindConversational AI/UX Lead at Google DeepMind
+
+Message
+Show all
+People you may knowPeople you may know
+From Peter's schoolFrom Peter's school
+
+Massimo fenech
+Massimo fenech
+Massimo fenech
+Senior con esperienza pregressa in Assicurazioni, talento di leadership, operaio tecnico in Aziende di Ceramica.Senior con esperienza pregressa in Assicurazioni, talento di leadership, operaio tecnico in Aziende di Ceramica.
+
+Connect
+Yasmin Suleiman
+Yasmin Suleiman
+Yasmin Suleiman
+Managing Director | Voxel Resonance & CEO | Studio VoxelManaging Director | Voxel Resonance & CEO | Studio Voxel
+
+Connect
+Heidi Berg
+Heidi Berg
+Heidi Berg
+Singer-Songwriter/ Award winning Concepts/ nycSinger-Songwriter/ Award winning Concepts/ nyc
+
+Connect
+Chris Smith
+Chris Smith
+Chris Smith
+Sales Executive and EntrepreneurSales Executive and Entrepreneur
+
+Connect
+Angela Bartlett
+Angela Bartlett
+Angela Bartlett
+design director at bonsey designdesign director at bonsey design
+
+Connect
+Show all
+You might likeYou might like
+Pages for youPages for you
+
+Perplexity logo
+Perplexity
+Perplexity
+Software DevelopmentSoftware Development
+989,972 followers989,972 followers
+
+
+
+27 connections follow this page
+
+Follow
+NVIDIA AI logo
+NVIDIA AI
+NVIDIA AI
+Computer Hardware ManufacturingComputer Hardware Manufacturing
+1,339,093 followers1,339,093 followers
+
+
+
+137 connections follow this page
+
+Follow
+Show all
+
+Frank Xiang
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+
+0 notifications total
+
+Skip to search
+
+Skip to main content
+
+Keyboard shortcuts
+Close jump menu
+Search
+new feed updates notifications
+Home
+My Network
+Jobs
+Messaging
+Notifications
+Frank Xiang
+Me
+
+For Business
+Farhan Hossain
+Farhan Hossain
+Founder | YC S25 | Building for Humanity.
+
+More
+
+Message
+
+Follow
+Background Image
+Farhan Hossain
+Click to upgrade to Premium
+Farhan has a {:badgeType} account
+Farhan Hossain 
+  3rd degree connection3rd
+Founder | YC S25 | Building for Humanity.
+San Francisco Bay Area  Contact info
+3,162 followers 
+500+ connections
+
+Follow
+
+Message
+
+More
+AboutAbout
+I’m Farhan Hossain, a founder and engineer building tools for the real world and the humanity within it.
+
+Over the past decade, I’ve helped launch Apple's flagship products, earned over 50 patents in design and manufacturing, and led teams through the full cycle of hardware development, from concept to market.
+
+My goal is simple: to build with care, design with purpose, and leave behind tools that serve people with dignity.
+
+Good design honors its users.
+What we make should last.
+And the physical world still matters.
+
+Let’s connect and build something worth remembering.I’m Farhan Hossain, a founder and engineer building tools for the real world and the humanity within it. Over the past decade, I’ve helped launch Apple's flagship products, earned over 50 patents in design and manufacturing, and led teams through the full cycle of hardware development, from concept to market. My goal is simple: to build with care, design with purpose, and leave behind tools that serve people with dignity. Good design honors its users. What we make should last. And the physical world still matters. Let’s connect and build something worth remembering.…see more
+ActivityActivity
+3,162 followers3,162 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Images
+Loaded 9 Posts posts
+View Farhan Hossain’s  graphic link
+Farhan HossainFarhan Hossain
+   • 3rd+Premium • 3rd+
+Founder | YC S25 | Building for Humanity.Founder | YC S25 | Building for Humanity.
+4d •  4 days ago • Visible to anyone on or off LinkedIn
+
+“Faster horses.”
+
+Today people ask for:
+ • Smarter AI
+ • Week-long batteries
+ • Sleek AR glasses
+
+All great.
+All expected.
+
+What we’re building?
+It’s not on anyone’s wish list.
+
+Yet.
+like
+9
+
+
+
+
+Farhan’s profile photo
+Farhan Hossain reposted this
+
+View Brandon Pampuch’s  graphic link
+Brandon PampuchBrandon Pampuch
+   • 3rd+Premium • 3rd+
+Software Engineer, Technologist and FounderSoftware Engineer, Technologist and Founder
+Visit my website
+3w • Edited •  3 weeks ago • Edited • Visible to anyone on or off LinkedIn
+My friend Mohammed Mortaga is starving to death in Gaza. He was raised in Mississippi. His brother was evacuated by the Red Cross because he is a US citizen and born in the United States. However, because Mohammed had the unfortunate luck of being born in Gaza, a few years before his father traveled here to get his PhD, he and his daughter Masa are starving to death. 
+
+Not tomorrow, not soon, today. They are starving to death today. 
+
+He is a software engineer and building software that helps disabled Americans get housing while being bombed and attacked. 
+
+I am posting this here because it is the only social network I have. You can listen to what a good man he is. We interviewed him for a podcast. The link is in the comments.
+
+This is not like any of the other news we have learned to ignore. It is a genocide.
+
+If you have a professional account and you have wondered if there is ever a context in which you should become political this is it.
+
+This is worse than anything you have witnessed in your lifetime. I truly believe if food does not make it into Gaza thousands upon thousands of people will starve to death this weekend.
+…more
+Activate to view larger image,
+graphical user interface, text, application, chat or text message
+Activate to view larger image,
+likesupportinsightful
+4,100
+163 comments
+1,000 reposts
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Stealth Startup logo
+Founder
+Founder
+Stealth Startup · Full-timeStealth Startup · Full-time
+Jul 2025 - Present · 2 mosJul 2025 to Present · 2 mos
+Santa Clara, California, United StatesSanta Clara, California, United States
+Uniting Hardware and Software. 
+A new brain. A new body. One system.Uniting Hardware and Software. A new brain. A new body. One system.
+Menlo Ventures logo
+Menlo Fellow
+Menlo Fellow
+Menlo VenturesMenlo Ventures
+Jan 2025 - Present · 8 mosJan 2025 to Present · 8 mos
+noble. crafters logo
+Founder - Technical Advisor
+Founder - Technical Advisor
+noble. Craftersnoble. Crafters
+Oct 2022 - Present · 2 yrs 11 mosOct 2022 to Present · 2 yrs 11 mos
+San Francisco Bay AreaSan Francisco Bay Area
+
+Side LineSide Line
+Amazon logo
+Optical PD Engineer
+Optical PD Engineer
+Amazon · Full-timeAmazon · Full-time
+Apr 2025 - Jul 2025 · 4 mosApr 2025 to Jul 2025 · 4 mos
+Emerging technologies.Emerging technologies.
+University of San Francisco logo
+Adjunct Professor
+Adjunct Professor
+University of San FranciscoUniversity of San Francisco
+Jan 2025 - May 2025 · 5 mosJan 2025 to May 2025 · 5 mos
+San Francisco Bay AreaSan Francisco Bay Area
+School of Management - Business AnalyticsSchool of Management - Business Analytics
+Show all 16 experiences
+EducationEducation
+University of Waterloo logo
+University of Waterloo
+University of Waterloo
+B.A.Sc, Mechatronics EngineeringB.A.Sc, Mechatronics Engineering
+2012 - Apr 20172012 - Apr 2017
+Injection Molding, AutoCAD and +9 skills
+Licenses & certificationsLicenses & certifications
+The Association for Experiential Education logo
+Associate Member
+Associate Member
+The Association for Experiential EducationThe Association for Experiential Education
+Issued Feb 2023Issued Feb 2023
+ASME (The American Society of Mechanical Engineers) logo
+Full Member
+Full Member
+ASME (The American Society of Mechanical Engineers)ASME (The American Society of Mechanical Engineers)
+Issued Feb 2023Issued Feb 2023
+VolunteeringVolunteering
+San José State University logo
+Guest Lecturer - How to Launch a Product
+Guest Lecturer - How to Launch a Product
+San Jose State UniversitySan Jose State University
+EducationEducation
+University of New Brunswick logo
+Guest Lecturer - Crowdfunding 
+Guest Lecturer - Crowdfunding 
+University of New BrunswickUniversity of New Brunswick
+Show all 3 volunteer experiences
+SkillsSkills
+High Profile Projects
+High Profile Projects
+Company logo
+Special Projects at Dubai PoliceSpecial Projects at Dubai Police
+1 endorsement
+1 endorsement
+Technical Project Leadership
+Technical Project Leadership
+Company logo
+Special Projects at Dubai PoliceSpecial Projects at Dubai Police
+Show all 53 skills
+RecommendationsRecommendations
+ReceivedReceived
+GivenGiven
+Nothing to see for now
+Nothing to see for now
+Recommendations that Farhan receives will appear here.Recommendations that Farhan receives will appear here.
+LanguagesLanguages
+Bengali
+Bengali
+Native or bilingual proficiencyNative or bilingual proficiency
+English
+English
+Native or bilingual proficiencyNative or bilingual proficiency
+Show all 3 languages
+InterestsInterests
+Top VoicesTop Voices
+CompaniesCompanies
+GroupsGroups
+SchoolsSchools
+Kevin O'Leary
+Kevin O'Leary
+Kevin O'Leary
+· 3rdThird degree connection
+Chairman, O’Leary Ventures and BeanstoxChairman, O’Leary Ventures and Beanstox
+4,456,623 followers4,456,623 followers
+
+Follow
+Richard Branson
+Richard Branson
+Richard Branson
+Founder at Virgin GroupFounder at Virgin Group
+18,687,764 followers18,687,764 followers
+
+Follow
+Show all Top Voices
+CausesCauses
+Children • Education • Environment • Health • Human Rights • Disaster and Humanitarian Relief • Poverty Alleviation • Science and TechnologyChildren • Education • Environment • Health • Human Rights • Disaster and Humanitarian Relief • Poverty Alleviation • Science and Technology
+
+More profiles for youMore profiles for you
+Abhi Vaidyanatha
+Abhi Vaidyanatha
+Abhi Vaidyanatha
+· 3rdThird degree connection
+Dev MarketingDev Marketing
+
+Follow
+Nadim S.
+Nadim S.
+Nadim S.
+· 3rdThird degree connection
+Software Engineer | Ex-Meta | Alif Batch 0Software Engineer | Ex-Meta | Alif Batch 0
+Message
+Tara Kappel
+Tara Kappel
+Tara Kappel
+· 3rdThird degree connection
+Cofounder & CPO @ RealRoots (YC S25)Cofounder & CPO @ RealRoots (YC S25)
+
+Message
+Taira Fujioka
+Taira Fujioka
+Taira Fujioka
+· 3rdThird degree connection
+Co-Founder & CTO at Anytrace (YC S25)Co-Founder & CTO at Anytrace (YC S25)
+
+Message
+Farhad Noorzay
+Farhad Noorzay
+Farhad Noorzay
+· 3rdThird degree connection
+Founder and CEO at Hoopfit. 🏀 The most advanced basketball training machine ever. 🤖👀⚡️Founder and CEO at Hoopfit. 🏀 The most advanced basketball training machine ever. 🤖👀⚡️
+
+Message
+Show all
+People you may knowPeople you may know
+From Farhan's companyFrom Farhan's company
+
+Patrick Pan
+Patrick Pan
+Patrick Pan
+CPU Architect at Stealth StartupCPU Architect at Stealth Startup
+
+Connect
+Cuiqing Li
+Cuiqing Li
+Cuiqing Li
+AI Algorithm Engineer | Algorithm Trading(Crypto&Options)AI Algorithm Engineer | Algorithm Trading(Crypto&Options)
+
+Connect
+wenpin cui
+wenpin cui
+wenpin cui
+Engineer at StealthEngineer at Stealth
+
+Connect
+Chuanxiong Guo
+Chuanxiong Guo
+Chuanxiong Guo
+Director of the AI Lab at Bytedance Inc.Director of the AI Lab at Bytedance Inc.
+
+Connect
+Roy Kong
+Roy Kong
+Roy Kong
+Zoom seed investor, startup advisor, community builderZoom seed investor, startup advisor, community builder
+
+Connect
+Show all
+You might likeYou might like
+Pages for youPages for you
+
+领英人才解决方案 logo
+领英人才解决方案
+领英人才解决方案
+Internet PublishingInternet Publishing
+72,058 followers72,058 followers
+
+
+501 connections follow this page
+
+Follow
+Perplexity logo
+Perplexity
+Perplexity
+Software DevelopmentSoftware Development
+991,432 followers991,432 followers
+
+
+
+27 connections follow this page
+
+Follow
+Show all
+
+Frank Xiang
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+
+0 notifications total
+
+Skip to search
+
+Skip to main content
+
+Keyboard shortcuts
+Close jump menu
+Search
+Home
+My Network
+Jobs
+Messaging
+Notifications
+Frank Xiang
+Me
+
+For Business
+Background Image
+Omar Abdelaziz
+Omar Abdelaziz 
+  2nd degree connection2nd
+Founder of L5 Assistant (YC S25), ex-Google
+
+L5 Assistant (YC S25)
+
+Washington University in St. Louis
+San Francisco, California, United States  Contact info
+500+ connections
+
+王能申 is a mutual connection王能申 is a mutual connection
+
+Connect
+
+Message
+
+More
+ActivityActivity
+5,404 followers5,404 followers
+
+
+Posts
+
+Comments
+
+Videos
+
+Images
+Loaded 9 Posts posts
+View Omar Abdelaziz’s  graphic link
+Omar AbdelazizOmar Abdelaziz
+   • 2ndVerified • 2nd
+Founder of L5 Assistant (YC S25), ex-GoogleFounder of L5 Assistant (YC S25), ex-Google
+2mo •  2 months ago • Visible to anyone on or off LinkedIn
+
+As I start my own company now, I realize it's at least 100x easier to improve an existing product than it is to make something people want from the ground up.
+likeinsightfullove
+52
+3 comments
+
+
+
+
+View Omar Abdelaziz’s  graphic link
+Omar AbdelazizOmar Abdelaziz
+   • 2ndVerified • 2nd
+Founder of L5 Assistant (YC S25), ex-GoogleFounder of L5 Assistant (YC S25), ex-Google
+2mo •  2 months ago • Visible to anyone on or off LinkedIn
+
+L5 is now available for anyone with an Android (Samsung, Pixel, etc) to download! 
+
+Search "L5 Assistant" on the Play Store so you can answer all your unread emails, texts, etc on your way to work and order DoorDash on the way home :)
+
+Our team reviews and corrects what the model did after every session so expect it to get better every week!
+…more
+
+
+likelovecelebrate
+46
+6 comments
+1 repost
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Founder & CEO
+Founder & CEO
+Founder & CEO
+L5 Assistant (YC S25) · Full-timeL5 Assistant (YC S25) · Full-time
+Jan 2025 - Present · 8 mosJan 2025 to Present · 8 mos
+Next-gen Siri that can use any app on your phone
+
+Learn more at L5Assistant.comNext-gen Siri that can use any app on your phone Learn more at L5Assistant.com…see more
+Founder & CEO
+Founder & CEO
+Founder & CEO
+Effortless Trading Inc. · Full-timeEffortless Trading Inc. · Full-time
+Sep 2024 - Dec 2024 · 4 mosSep 2024 to Dec 2024 · 4 mos
+Market-beating algorithmic trading directly in your brokerage accountMarket-beating algorithmic trading directly in your brokerage account
+Scale AI logo
+Staff Product Manager on GenAI ML team
+Staff Product Manager on GenAI ML team
+Scale AI · Full-timeScale AI · Full-time
+Mar 2024 - Sep 2024 · 7 mosMar 2024 to Sep 2024 · 7 mos
+San Francisco, California, United StatesSan Francisco, California, United States
+- Helped redefine strategy for how ML team can help improve quality, cost, and speed of LLM data generation with an in-task automated feedback system for labelers, powered in the short term by manually-configured LLM and code-based checks, then later with a zero-config agentic LLM. Deployed on XX customer projects within 3 weeks.
+
+- Saved $Xm and eliminated key growth bottleneck by automating grading of a subset of tests given to new data labelers
+
+- Paternity leave June to September- Helped redefine strategy for how ML team can help improve quality, cost, and speed of LLM data generation with an in-task automated feedback system for labelers, powered in the short term by manually-configured LLM and code-based checks, then later with a zero-config agentic LLM. Deployed on XX customer projects within 3 weeks. - Saved $Xm and eliminated key growth bottleneck by automating grading of a subset of tests given to new data labelers - Paternity leave June to September…see more
+Google logo
+Google
+Google
+5 yrs 8 mos5 yrs 8 mos
+Product Manager II: LLMifying Google Assistant
+Product Manager II: LLMifying Google Assistant
+Full-timeFull-time
+May 2023 - Mar 2024 · 11 mosMay 2023 to Mar 2024 · 11 mos
+Mountain View, California, United StatesMountain View, California, United States
+- Co-founded team working to replace Google Assistant’s traditional NLU, NLG, and code-based fulfillment stack with a mid-size LLM that’s reliable, fast, and cost-efficient enough to be a positive in-place replacement for XXXm users
+
+- Drove 2-3x improvement in model quality on the pre-launch eval sets (vs base instruction-tuned model) by building a data generation platform for our two conversation design experts to create virtually unlimited golden fine-tuning examples 
+
+- Co-developed a powerful AutoEval system used for >90% of all model evaluations, which featured a highly-tuned LLM judge and an LLM user capable of adapting any golden multi-turn conversation to unexpected model responses- Co-founded team working to replace Google Assistant’s traditional NLU, NLG, and code-based fulfillment stack with a mid-size LLM that’s reliable, fast, and cost-efficient enough to be a positive in-place replacement for XXXm users - Drove 2-3x improvement in model quality on the pre-launch eval sets (vs base instruction-tuned model) by building a data generation platform for our two conversation design experts to create virtually unlimited golden fine-tuning examples - Co-developed a powerful AutoEval system used for >90% of all model evaluations, which featured a highly-tuned LLM judge and an LLM user capable of adapting any golden multi-turn conversation to unexpected model responses…see more
+Product Manager II: Google Assistant-powered app search on Android 
+Product Manager II: Google Assistant-powered app search on Android 
+Full-timeFull-time
+Dec 2022 - Apr 2023 · 5 mosDec 2022 to Apr 2023 · 5 mos
+Mountain View, California, United States · On-siteMountain View, California, United States · On-site
+Briefly moved to this team after a cost-cutting reorg led to the cancellation of the project belowBriefly moved to this team after a cost-cutting reorg led to the cancellation of the project below
+Product Manager II: Replacing Google Assistant with screen-based LLM agent
+Product Manager II: Replacing Google Assistant with screen-based LLM agent
+Full-timeFull-time
+May 2022 - Nov 2022 · 7 mosMay 2022 to Nov 2022 · 7 mos
+Mountain View, California, United StatesMountain View, California, United States
+Pitched and got funding for a new project that partnered with research teams aimed at replacing Google Assistant’s custom app integrations with an agentic LLM that can take in a goal from the user and then directly read and control the phone’s screen to accomplish that goal without custom integrationsPitched and got funding for a new project that partnered with research teams aimed at replacing Google Assistant’s custom app integrations with an agentic LLM that can take in a goal from the user and then directly read and control the phone’s screen to accomplish that goal without custom integrations
+Show all 6 experiences
+Co-founder
+Co-founder
+Co-founder
+Street Mama · Part-timeStreet Mama · Part-time
+Jun 2021 - Oct 2021 · 5 mosJun 2021 to Oct 2021 · 5 mos
+San Francisco, California, United StatesSan Francisco, California, United States
+Co-founded a nonprofit that distributed 4,000+ gourmet meals to the homeless in SF. See Instagram @streetmama.sf.Co-founded a nonprofit that distributed 4,000+ gourmet meals to the homeless in SF. See Instagram @streetmama.sf.
+Show all 22 experiences
+EducationEducation
+Washington University in St. Louis logo
+Washington University in St. Louis
+Washington University in St. Louis
+Bachelor of Science in Business Administration, Finance and Computer ScienceBachelor of Science in Business Administration, Finance and Computer Science
+2014 - 20182014 - 2018
+Cumulative GPA: 3.8/4.0
+Finance GPA: 3.9/4.0
+Computer Science GPA: 3.9/4.0
+
+Alpha Kappa Psi Business Fraternity, Club Ultimate Frisbee, MoneyThink, Books and Basketball, Washington University Consulting Association (WUCA), Association for Computer Machinery (ACM)Cumulative GPA: 3.8/4.0 Finance GPA: 3.9/4.0 Computer Science GPA: 3.9/4.0 Alpha Kappa Psi Business Fraternity, Club Ultimate Frisbee, MoneyThink, Books and Basketball, Washington University Consulting Association (WUCA), Association for Computer Machinery (ACM)
+Stanford University School of Engineering logo
+Stanford University School of Engineering
+Stanford University School of Engineering
+Part-time graduate student (Artificial Intelligence)Part-time graduate student (Artificial Intelligence)
+Apr 2023 - Jun 2023Apr 2023 - Jun 2023
+Started taking one class per quarter part-time to deepen my technical understanding in ML/AI in pursuit of either a Masters in CS or the AI Graduate Certificate
+
+Planned coursework:
+Linear Algebra, Multivariable Calculus, and Modern Applications
+Artificial Intelligence: Principles and Techniques
+Deep Learning
+Computer Vision: From 3D Reconstruction to Recognition
+Reinforcement Learning
+Deep Generative Models
+
+Stopped after completing first class because it was too much of a time commitment with work at the same time (20+ hours per week)Started taking one class per quarter part-time to deepen my technical understanding in ML/AI in pursuit of either a Masters in CS or the AI Graduate Certificate Planned coursework: Linear Algebra, Multivariable Calculus, and Modern Applications Artificial Intelligence: Principles and Techniques Deep Learning Computer Vision: From 3D Reconstruction to Recognition Reinforcement Learning Deep Generative Models Stopped after completing first class because it was too much of a time commitment with work at the same time (20+ hours per week)
+Show all 3 educations
+InterestsInterests
+Top VoicesTop Voices
+CompaniesCompanies
+GroupsGroups
+NewslettersNewsletters
+SchoolsSchools
+Kevin Weil
+Kevin Weil
+Kevin Weil
+· 2ndSecond degree connection
+CPO at OpenAI, board member at Cisco & The Nature Conservancy. Army Reserves. Prev: President at Planet, co-creator Libra, Head of Product at Instagram and Twitter.CPO at OpenAI, board member at Cisco & The Nature Conservancy. Army Reserves. Prev: President at Planet, co-creator Libra, Head of Product at Instagram and Twitter.
+111,727 followers111,727 followers
+
+Follow
+Jeff Weiner
+Jeff Weiner
+Jeff Weiner
+· 3rdThird degree connection
+Executive Chairman at LinkedIn / Founding Partner Next Play VenturesExecutive Chairman at LinkedIn / Founding Partner Next Play Ventures
+10,403,798 followers10,403,798 followers
+
+Follow
+Show all Top Voices
+
+More profiles for youMore profiles for you
+Grace Hu 🎨
+Grace Hu 🎨
+Grace Hu 🎨
+· 3rdThird degree connection
+Product @ Google | MIT CSProduct @ Google | MIT CS
+
+Follow
+Sophie Z.
+Sophie Z.
+Sophie Z.
+· 2ndSecond degree connection
+ML @ GoogleML @ Google
+
+Follow
+Melisa Tokmak
+Melisa Tokmak
+Melisa Tokmak
+· 3rdThird degree connection
+founderfounder
+
+Message
+Farhan Hossain
+Farhan Hossain
+Farhan Hossain
+· 3rdThird degree connection
+Founder | YC S25 | Building for Humanity.Founder | YC S25 | Building for Humanity.
+
+Follow
+Luv Kothari
+Luv Kothari
+Luv Kothari
+· 3rdThird degree connection
+AI at SnowflakeAI at Snowflake
+Message
+Show all
+People you may knowPeople you may know
+From Omar's industryFrom Omar's industry
+
+徐彬 姜
+姜徐彬
+姜徐彬
+字节跳动 - 算法工程师字节跳动 - 算法工程师
+
+Connect
+Hend Ahmed
+Hend Ahmed
+Hend Ahmed
+Supervising at Clothing companySupervising at Clothing company
+
+Connect
+伟雄 陈
+陈伟雄
+陈伟雄
+Riot Games, Head of Production, VPRiot Games, Head of Production, VP
+
+Connect
+Yin Yin Lee
+Yin Yin Lee
+Yin Yin Lee
+Ecommerce Business Owner at ShopeeEcommerce Business Owner at Shopee
+
+Connect
+Mr Hou
+Mr Hou
+Mr Hou
+微软亚洲研究院-算法研究员微软亚洲研究院-算法研究员
+
+Connect
+Show all
+
+Frank Xiang
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+
+Blue
+Home
+See Blue in Action
+What Blue Does
+Meet Blue,
+True Voice Control
+For Your Phone
+Control every app on your phone using only your voice. No touching, no looking. Built for accessibility, perfect for anyone who needs hands-free control.
+
+Try Blue on Android Now
+your@email.com
+Join iPhone Waitlist
+✓ Works with any app • ✓ iPhone coming soon
+
+
+Watch Your Phone Actually Listen
+See someone control their phone completely hands-free. This isn't a demo – it's real life.
+
+
+Beyond Voice Assistants
+Voice assistants answer questions. Blue actually controls your phone like you would.
+
+A woman who is blind using voice control on her phone.
+True Voice Control
+Not just voice commands. Complete control of your phone using only your voice.
+
+A man in a car using voice control on his phone.
+Every App Works
+Instagram, Venmo, Uber, any app. If it's on your phone, Blue can control it.
+
+An elderly man in a wheelchair using voice control on his phone.
+Independence
+Whether you can't touch your phone or shouldn't, Blue gives you complete control.
+
+Y
+Backed by Y Combinator
+
+The same accelerator that launched Airbnb, Dropbox, and hundreds of other successful startups.
+
+Built by alumni from
+
+Google
+Apple
+Amazon logo
+Amazon
+Your Phone. Your Voice. Your Independence.
+Join people waiting for iPhone. Be first in line.
+
+Enter your email address
+Join iPhone Waitlist
+✓ Built for accessibility • ✓ iPhone coming soon • ✓ Works for everyone
+
+Home
+Privacy Policy
+Terms & Conditions
+© 2025 Blue. Voice control that actually works.
