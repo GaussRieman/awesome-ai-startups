@@ -33,29 +33,16 @@ def main():
         # 初始化分析器
         analyzer = StartupAnalyzer(llm_client)
         
-        # 执行分析
-        analysis = analyzer.analyze_startup(sample_text)
+        # 执行分析（启用流式输出）
+        analysis = analyzer.analyze_startup(sample_text, stream=True)
         
-        # 使用增强版报告生成器生成多种格式
-        print("📊 生成可视化报告...")
-        results = ReportGeneratorPro.save_all(
-            analysis,
-            md_path="startup_analysis_report.md",
-            html_path="startup_analysis_report.html",
-            pdf_path="startup_analysis_report.pdf",
-            pptx_path="startup_analysis_report.pptx"
-        )
+        # 直接保存原始分析结果
+        print("💾 保存原始分析结果...")
+        with open("analysis_raw_result.md", "w", encoding="utf-8") as f:
+            f.write(analysis.raw_response)
         
         print("✅ 分析完成！")
-        print(f"📄 报告文件:")
-        for format_name, file_path in results.items():
-            if file_path:
-                print(f"   - {format_name.upper()}: {file_path}")
-        
-        # 显示分析结果摘要
-        print("\n📊 分析结果摘要:")
-        print("-" * 50)
-        print(analysis.raw_response[:500] + "..." if len(analysis.raw_response) > 500 else analysis.raw_response)
+        print(f"📄 原始结果已保存到: analysis_raw_result.md")
         
     except Exception as e:
         print(f"❌ 分析过程中出现错误: {str(e)}")

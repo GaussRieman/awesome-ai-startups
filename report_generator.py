@@ -435,26 +435,6 @@ def render_html(ana: StartupAnalysis,
 # 报告生成器（统一入口）
 # ------------------------------
 class ReportGeneratorPro:
-    @staticmethod
-    def _auto_keywords(ana: StartupAnalysis, topk: int = 50) -> List[Tuple[str, float]]:
-        if ana.keywords:
-            return ana.keywords
-        text = (ana.raw_response or "") + " " + " ".join(map(str, ana.key_elements.values()))
-        # 极简词频（中英文混合粗糙版）：只为可视化占位，生产可替换为 jieba + 自定义停用词
-        import re
-        tokens = re.findall(r"[\u4e00-\u9fa5]{1,}|[A-Za-z]{2,}", text)
-        stop = set(["公司","我们","以及","一个","的","和","是","在","对","与","及","等","为","于","了","以","及其","这是","这家"])
-        freq: Dict[str, int] = {}
-        for t in tokens:
-            if t.lower() in stop or t in stop:
-                continue
-            freq[t] = freq.get(t, 0) + 1
-        items = sorted(freq.items(), key=lambda x: x[1], reverse=True)[:topk]
-        # 归一化
-        if not items:
-            return []
-        mx = max(w for _, w in items)
-        return [(k, w / float(mx)) for k, w in items]
 
     @staticmethod
     def _prepare_visuals(ana: StartupAnalysis) -> Dict[str, Optional[str]]:
@@ -479,64 +459,12 @@ class ReportGeneratorPro:
         vis = ReportGeneratorPro._prepare_visuals(ana)
         return render_html(ana, **vis)
 
-    # 可选：保存为 PDF（需要 weasyprint 或者 wkhtmltopdf）
-    @staticmethod
-    def save_pdf_from_html(html: str, output_path: str = "startup_report.pdf") -> Optional[str]:
-        try:
-            from weasyprint import HTML as WeasyHTML
-            WeasyHTML(string=html).write_pdf(output_path)
-            return output_path
-        except Exception:
-            # 尝试 wkhtmltopdf（需要本地安装）
-            try:
-                import pdfkit
-                pdfkit.from_string(html, output_path)
-                return output_path
-            except Exception:
-                return None
-
-    # 可选：保存为 PPTX（需要 python-pptx）
-    @staticmethod
-    def save_pptx(ana: StartupAnalysis, html_preview_path: Optional[str] = None,
-                  output_path: str = "startup_report.pptx") -> Optional[str]:
-        try:
-            from pptx import Presentation
-            from pptx.util import Inches, Pt
-            prs = Presentation()
-            title_slide_layout = prs.slide_layouts[0]
-            slide = prs.slides.add_slide(title_slide_layout)
-            slide.shapes.title.text = f"创业公司分析报告 · {ana.key_elements.get('company_name','N/A')}"
-            slide.placeholders[1].text = f"生成时间：{ana.extracted_at}\n数据与方法：公开信息+图谱+LLM"
-
-            # 第二页：核心要素
-            layout = prs.slide_layouts[5]
-            slide2 = prs.slides.add_slide(layout)
-            tf = slide2.shapes.add_textbox(Inches(0.5), Inches(0.5), Inches(9), Inches(6)).text_frame
-            tf.word_wrap = True
-            ke = ana.key_elements or {}
-            bullets = [
-                f"公司：{ke.get('company_name') or ke.get('name')}",
-                f"成立：{ke.get('founded') or ke.get('founded_date')}",
-                f"领域：{ke.get('sector') or ke.get('industry')}",
-                f"价值主张：{ke.get('one_liner') or ke.get('value_proposition')}",
-                f"产品/简介：{ke.get('description') or ke.get('product_description')}"
-            ]
-            for b in bullets:
-                p = tf.add_paragraph()
-                p.text = b
-                p.level = 0
-
-            prs.save(output_path)
-            return output_path
-        except Exception:
-            return None
 
     @staticmethod
     def save_all(ana: StartupAnalysis,
                  md_path: str = "startup_report.md",
                  html_path: str = "startup_report.html",
-                 pdf_path: Optional[str] = "startup_report.pdf",
-                 pptx_path: Optional[str] = "startup_report.pptx") -> Dict[str, Optional[str]]:
+                 ) -> Dict[str, Optional[str]]:
         md = ReportGeneratorPro.to_markdown(ana)
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(md)
@@ -545,26 +473,16 @@ class ReportGeneratorPro:
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html)
 
-        pdf_out = None
-        pptx_out = None
-        if pdf_path:
-            pdf_out = ReportGeneratorPro.save_pdf_from_html(html, pdf_path)
-        if pptx_path:
-            pptx_out = ReportGeneratorPro.save_pptx(ana, html_path, pptx_path)
+
 
         print("✅ 报告已生成：")
         print(f"- Markdown: {os.path.abspath(md_path)}")
         print(f"- HTML:     {os.path.abspath(html_path)}")
-        if pdf_out:
-            print(f"- PDF:      {os.path.abspath(pdf_out)}")
-        if pptx_out:
-            print(f"- PPTX:     {os.path.abspath(pptx_out)}")
+
 
         return {
             "markdown": md_path,
             "html": html_path,
-            "pdf": pdf_out,
-            "pptx": pptx_out
         }
 
 # ------------------------------

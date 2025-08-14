@@ -83,10 +83,3 @@ class StartupAnalysis:
     scoring: Dict[str, float] = field(default_factory=dict)  # 五维评分
     sources: List[Dict[str, str]] = field(default_factory=list)  # 数据来源
     keywords: List[Tuple[str, float]] = field(default_factory=list)  # 关键词权重
-    
-    # 兼容旧版本的字段
-    company: Optional[CompanyInfo] = None
-    founders: List[FounderInfo] = field(default_factory=list)
-    funding: Optional[FundingInfo] = None
-    market: Optional[MarketInfo] = None
-    analysis: Optional[AnalysisInfo] = None 

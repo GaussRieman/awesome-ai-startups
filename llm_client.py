@@ -34,7 +34,7 @@ class LLMClient:
             base_url=self.base_url
         )
     
-    def call_llm(self, prompt: str, temperature: float = 0.1, max_tokens: int = 8000) -> str:
+    def call_llm(self, prompt: str, temperature: float = 0.1, max_tokens: int = 8000, stream: bool = False) -> str:
         """调用 LLM 接口"""
         try:
             response = self.client.chat.completions.create(
@@ -45,9 +45,23 @@ class LLMClient:
                 ],
                 max_tokens=max_tokens,
                 temperature=temperature,
-                stream=False
+                stream=stream
             )
-            return response.choices[0].message.content
+            
+            if stream:
+                # 流式输出
+                full_response = ""
+                print("🤖 AI 分析中...")
+                for chunk in response:
+                    if chunk.choices[0].delta.content:
+                        content = chunk.choices[0].delta.content
+                        print(content, end="", flush=True)
+                        full_response += content
+                print()  # 换行
+                return full_response
+            else:
+                # 非流式输出
+                return response.choices[0].message.content
         except Exception as e:
             raise Exception(f"LLM调用失败: {str(e)}")
     

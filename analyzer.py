@@ -106,13 +106,13 @@ class StartupAnalyzer:
         
         return graph
     
-    def analyze_startup(self, text: str) -> StartupAnalysis:
+    def analyze_startup(self, text: str, stream: bool = True) -> StartupAnalysis:
         """完整的创业公司分析流程"""
         print("🔍 开始分析创业公司...")
         
         try:
-            # 使用新的提示词模板进行一次性分析
-            response = self.llm.call_llm(text)
+            # 使用新的提示词模板进行一次性分析，支持流式输出
+            response = self.llm.call_llm(text, stream=stream)
             
             # 解析响应，构建结构化数据
             key_elements = self._extract_key_elements(text, response)
