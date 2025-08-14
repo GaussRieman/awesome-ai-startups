@@ -8,7 +8,6 @@
 import os
 from llm_client import LLMClient
 from analyzer import StartupAnalyzer
-from report_generator import ReportGeneratorPro
 
 
 def main():
