@@ -10,7 +10,7 @@ from llm_client import LLMClient
 from analyzer import StartupAnalyzer
 
 
-def main():
+def main(data_file_path: str):
     """主函数"""
     print("🚀 创业公司分析器启动")
     
@@ -23,7 +23,7 @@ def main():
     
     try:
         # 读取示例数据
-        with open("data.txt", "r", encoding='utf-8') as f:
+        with open(data_file_path, "r", encoding='utf-8') as f:
             sample_text = f.read()
         
         # 初始化 LLM 客户端
@@ -37,15 +37,18 @@ def main():
         
         # 直接保存原始分析结果
         print("💾 保存原始分析结果...")
-        with open("analysis_raw_result.md", "w", encoding="utf-8") as f:
+        file_name = os.path.basename(data_file_path)
+        save_path = os.path.join("/root/workspace/awesome-ai-startups/outputs", f"{file_name}_analysis_raw_result.md")
+        with open(save_path, "w", encoding="utf-8") as f:
             f.write(analysis.raw_response)
         
         print("✅ 分析完成！")
-        print(f"📄 原始结果已保存到: analysis_raw_result.md")
+        print(f"📄 原始结果已保存到: {save_path}")
         
     except Exception as e:
         print(f"❌ 分析过程中出现错误: {str(e)}")
 
 
 if __name__ == "__main__":
-    main() 
+    data_file_path = "data/realroots.txt"
+    main(data_file_path) 

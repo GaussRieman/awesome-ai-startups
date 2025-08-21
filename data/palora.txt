@@ -1,0 +1,599 @@
+Y Combinator
+AboutCompaniesStartup JobsFind a Co-FounderLibrarySAFEResources
+Apply for F2025 batch.Apply
+Home
+›
+Companies
+›
+Paloma
+
+Paloma
+Modular quoting and billing platform configured using natural language
+Summer 2025
+Active
+saas
+b2b
+sales
+billing
+ai
+San Francisco
+Company
+Jobs
+0
+ https://getpaloma.ai/
+Paloma is a modular quote-to-cash stack that lets you manage pricing, quoting, and billing processes using natural language.
+
+B2B quoting and billing systems are stuck in the past. Rigid configurations and overly templatized rules slow down businesses, lead to erroneous manual processes , and result in fragmented sources of truths. Paloma lets you define your business rules in natural language, integrate your playbooks into the sales and quoting process, and automate bespoke billing processes for each of your contracts.
+Active Founders
+Alex Avnit
+Alex Avnit
+Founder
+COO and Co-founder at Paloma.
+Previously Head of Deel’s EOR Business Unit - their fastest-growing and highest revenue-generating product.
+Before that, Head of Data for Financial Crime at Revolut.
+ 
+Nazli Danis
+Nazli Danis
+Founder
+CEO and co-founder at Paloma. Previously GPM and first product hire at Deel where I led Employee of Record (EOR), Deel's fastest growing and highest revenue generating vertical. I built the product and grew the team as we blitzscaled from $10K MRR to $XXM MRR.
+Twitter account
+ 
+Kaiwen Song
+Kaiwen Song
+Founder
+Co-founder / CTO at Paloma.
+Formerly Director of Engineering at Deel, where I built and led the pricing, billing, invoicing, and payment systems from the ground up. Helped to scale the company from 30 people series B to series E at $12 billion valuation.
+ 
+Paloma
+Paloma
+Founded:
+2025
+Batch:
+Summer 2025
+Team Size:
+3
+Status:
+Active
+Location:
+San Francisco
+Primary Partner:
+Gustaf Alstromer
+ 
+Footer
+Y CombinatorY Combinator
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Resources
+Startup Directory
+Startup Library
+Investors
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Make something people want.Apply
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+© 2025 Y Combinator
+0 notifications total
+
+Alex Avnit
+YC Co-Founder (Paloma) | Ex-Deel | Ex-Revolut
+
+More
+
+Follow
+
+Message
+
+Experience
+Paloma (YC S25) logo
+CRO & Co-Founder
+CRO & Co-Founder
+Paloma (YC S25) · Full-timePaloma (YC S25) · Full-time
+May 2025 - Present · 4 mosMay 2025 to Present · 4 mos
+San Francisco Bay Area · On-siteSan Francisco Bay Area · On-site
+Paloma ingests your contracts, quotes and emails and spins them into billing-ready logic.
+Paloma ingests your contracts, quotes and emails and spins them into billing-ready logic.
+RevOps Co-op logo
+Member
+Member
+RevOps Co-op · Part-timeRevOps Co-op · Part-time
+Jul 2025 - Present · 2 mosJul 2025 to Present · 2 mos
+RemoteRemote
+Part of a global collective advancing RevOps best practices and sharing of ideas
+Part of a global collective advancing RevOps best practices and sharing of ideas
+Thrill Labs logo
+COO
+COO
+Thrill Labs · Full-timeThrill Labs · Full-time
+Jul 2024 - Apr 2025 · 10 mosJul 2024 to Apr 2025 · 10 mos
+Dubai, United Arab EmiratesDubai, United Arab Emirates
+Built Thrill Labs’ operating engine from the ground up owning data, payments, compliance, recruitment, HR, and customer support so the product could launch fast and scale reliably.
+Built Thrill Labs’ operating engine from the ground up owning data, payments, compliance, recruitment, HR, and customer support so the product could launch fast and scale reliably.
+Travel
+Travel
+Career BreakCareer Break
+Jan 2024 - Jun 2024 · 6 mosJan 2024 to Jun 2024 · 6 mos
+Took some time off to focus on some personal development areas (Learning Spanish, Surfing and exploring South and Central America)
+Took some time off to focus on some personal development areas (Learning Spanish, Surfing and exploring South and Central America)
+Deel logo
+Deel
+Deel
+Full-time · 2 yrs 7 mosFull-time · 2 yrs 7 mos
+Associate Director Operations
+Associate Director Operations
+Apr 2022 - Jan 2024 · 1 yr 10 mosApr 2022 to Jan 2024 · 1 yr 10 mos
+1. Built the organisation structure managing the payroll execution process across 100+ countries for all payroll related products (EOR, GP). Operational team that I managed peaked at 53 subordinates
+
+2. Ran a project to shift the payroll cutoff date from the 15th of the month to the 20th. This required optimisation problems in payroll processing, opening up new bank accounts for payment execution timelines and resourcing all related teams to handle the much tighter deadlines. Started in July 2023 with a staged approach, the final countries were shifted to the 20th early in 2024
+
+3. Business unit owner for EOR - Developed OKRs for the EOR product and worked with PMs to create and iterate on the product roadmap (EOR was generating $13mil in recurring revenue monthly in January 2024)
+1. Built the organisation structure managing the payroll execution process across 100+ countries for all payroll related products (EOR, GP). Operational team that I managed peaked at 53 subordinates 2. Ran a project to shift the payroll cutoff date from the 15th of the month to the 20th. This required optimisation problems in payroll processing, opening up new bank accounts for payment execution timelines and resourcing all related teams to handle the much tighter deadlines. Started in July 2023 with a staged approach, the final countries were shifted to the 20th early in 2024 3. Business unit owner for EOR - Developed OKRs for the EOR product and worked with PMs to create and iterate on the product roadmap (EOR was generating $13mil in recurring revenue monthly in January 2024)
+Core Operations Manager
+Core Operations Manager
+Jul 2021 - Apr 2022 · 10 mosJul 2021 to Apr 2022 · 10 mos
+EMEAEMEA
+1. Joined as the 3rd Core Operations manager in the company which scaled in 12 months to a team of 22 Core operations managers when I was double promoted to Associate Director and managed 9 of these Core Operations managers
+
+2. Program manager for many of the core flows that needed to be built in product for EOR (Onboarding employees, Terminating employees, handling deposits from clients, quotes, irregular payment schedules). Scoped requirements for PMs and engineers and partnered with them throughout the product development process until deployment and further iterations
+
+3. Independently managed the coordination of December and other irregular payment deadlines which required cross department and product coordination and delivery
+1. Joined as the 3rd Core Operations manager in the company which scaled in 12 months to a team of 22 Core operations managers when I was double promoted to Associate Director and managed 9 of these Core Operations managers 2. Program manager for many of the core flows that needed to be built in product for EOR (Onboarding employees, Terminating employees, handling deposits from clients, quotes, irregular payment schedules). Scoped requirements for PMs and engineers and partnered with them throughout the product development process until deployment and further iterations 3. Independently managed the coordination of December and other irregular payment deadlines which required cross department and product coordination and delivery
+Revolut logo
+FinCrime Product
+FinCrime Product
+Revolut · Full-timeRevolut · Full-time
+Oct 2019 - Jul 2021 · 1 yr 10 mosOct 2019 to Jul 2021 · 1 yr 10 mos
+Greater London, England, United KingdomGreater London, England, United Kingdom
+1. Coordinated a cross-department project where the goal was to improve customer experience by reducing locked accounts and complaints. We managed to reduce FinCrime related complaints by over 50% (From 2.2k complaints per month to 1.1k) and locked accounts by 25% (260k to 195k) in a period of 6 months.
+
+2. Reduced FinCrime department’s cost per MAU by over 20% in a 6 month period by providing MI for targeted decision making, working with Product teams to quantify the impact of their road map and deliver efficiency gains and precision improvements as expected
+
+3. Developed a fraud reporting tool to standardise how our partners escalate fraud cases to us. This allowed automation actions such as locking of accounts so that fraudsters are stopped faster and we recovered 8x more funds for victims.
+
+4. Performed large scale fraud investigations using data and insights to improve controls and prevent future fraudsters from being able to take advantage of Revolut's customers
+1. Coordinated a cross-department project where the goal was to improve customer experience by reducing locked accounts and complaints. We managed to reduce FinCrime related complaints by over 50% (From 2.2k complaints per month to 1.1k) and locked accounts by 25% (260k to 195k) in a period of 6 months. 2. Reduced FinCrime department’s cost per MAU by over 20% in a 6 month period by providing MI for targeted decision making, working with Product teams to quantify the impact of their road map and deliver efficiency gains and precision improvements as expected 3. Developed a fraud reporting tool to standardise how our partners escalate fraud cases to us. This allowed automation actions such as locking of accounts so that fraudsters are stopped faster and we recovered 8x more funds for victims. 4. Performed large scale fraud investigations using data and insights to improve controls and prevent future fraudsters from being able to take advantage of Revolut's customers
+Barclays logo
+Decision Analyst
+Decision Analyst
+BarclaysBarclays
+Mar 2017 - Oct 2019 · 2 yrs 8 mosMar 2017 to Oct 2019 · 2 yrs 8 mos
+London, United KingdomLondon, United Kingdom
+Responsible for the development, improvement and availability of targeting models, including propensity, event and behavioural. These models drive Relevant Driven Interactions (RDIs) including PCMs, DM and email campaigns. Specifically focused on continuous improvement of these models and processes.
+Responsible for the development, improvement and availability of targeting models, including propensity, event and behavioural. These models drive Relevant Driven Interactions (RDIs) including PCMs, DM and email campaigns. Specifically focused on continuous improvement of these models and processes.
+P:Cubed
+P:Cubed
+P:Cubed
+2 yrs 6 mos2 yrs 6 mos
+Scoring Analyst
+Scoring Analyst
+Jun 2016 - Feb 2017 · 9 mosJun 2016 to Feb 2017 · 9 mos
+By using credit data to predict consumer behavior, we can determine the probability of an individual responding to a campaign (Response model) or whether a consumer will default on their payment of a loan instalment (Risk/Probability of Default model). 
+
+By combining other sources of data from our clients/bureaus we can segment our target customers into groups similar by nature and therefore apply targeted marketing/advertising to meet our clients' individual needs and optimize their consumer base profile. Also analyzing client data to produce outcome driven strategic solutions to our clients.
+By using credit data to predict consumer behavior, we can determine the probability of an individual responding to a campaign (Response model) or whether a consumer will default on their payment of a loan instalment (Risk/Probability of Default model). By combining other sources of data from our clients/bureaus we can segment our target customers into groups similar by nature and therefore apply targeted marketing/advertising to meet our clients' individual needs and optimize their consumer base profile. Also analyzing client data to produce outcome driven strategic solutions to our clients.
+Data Analyst
+Data Analyst
+Sep 2014 - May 2016 · 1 yr 9 mosSep 2014 to May 2016 · 1 yr 9 mos
+City of Johannesburg, Gauteng, South AfricaCity of Johannesburg, Gauteng, South Africa
+P:Cubed is a specialist analytically driven marketing services provider with a proven track record of delivering customer engagement solutions spanning credit, insurance, retail, furniture, and telecommunications. We combine data, advanced analytics, insights and execution platforms to effectively acquire new customers and increase profits of your existing customers.
+
+My team is responsible for interpreting user requirements, developing SQL code, managing databases within SQL, data processing through various software solutions, and ensuring that a consolidated and quality assured user-end outcome is developed.
+P:Cubed is a specialist analytically driven marketing services provider with a proven track record of delivering customer engagement solutions spanning credit, insurance, retail, furniture, and telecommunications. We combine data, advanced analytics, insights and execution platforms to effectively acquire new customers and increase profits of your existing customers. My team is responsible for interpreting user requirements, developing SQL code, managing databases within SQL, data processing through various software solutions, and ensuring that a consolidated and quality assured user-end outcome is developed. 
+Virgin Active logo
+Statistical Analyst
+Statistical Analyst
+Virgin ActiveVirgin Active
+Jan 2012 - Jul 2014 · 2 yrs 7 mosJan 2012 to Jul 2014 · 2 yrs 7 mos
+City of Cape Town, Western Cape, South AfricaCity of Cape Town, Western Cape, South Africa
+Employed on a part-time contract where I use statistical methods for problem solving across various aspects (sales, joining fees, membership trends etc.) of the gym membership industry.
+
+I learnt to work as part of a team business unit. In presenting my findings and analysis to managers and fellow employees, I have gained a confidence and work ethic that I could only have acquired by having a part time job while studying.
+
+
+Nazli Danis
+co-founder @ paloma | ex-deel
+
+More
+
+Follow
+
+Message
+
+Experience
+Paloma (YC S25) logo
+Co-Founder
+Co-Founder
+Paloma (YC S25)Paloma (YC S25)
+Aug 2025 - Present · 1 moAug 2025 to Present · 1 mo
+San Francisco, California, United StatesSan Francisco, California, United States
+Deel logo
+Deel
+Deel
+4 yrs 5 mos4 yrs 5 mos
+Group Product Manager
+Group Product Manager
+Jan 2024 - Jul 2025 · 1 yr 7 mosJan 2024 to Jul 2025 · 1 yr 7 mos
+GPM for Employee of Record — Deel’s fastest growing and highest revenue generating product.
+GPM for Employee of Record — Deel’s fastest growing and highest revenue generating product.
+Lead Product Manager
+Lead Product Manager
+Sep 2022 - Dec 2023 · 1 yr 4 mosSep 2022 to Dec 2023 · 1 yr 4 mos
+Product Manager
+Product Manager
+Full-timeFull-time
+Mar 2021 - Aug 2022 · 1 yr 6 mosMar 2021 to Aug 2022 · 1 yr 6 mos
+Istanbul, TürkiyeIstanbul, Türkiye
+Deel (YC W19) allows you to hire anyone, anywhere in the world as a contractor or full time employee.
+
+As first PM hire, I've been leading the efforts to productize the EOR (employer on record) offering from a POC to a scalable product that allows us to onboard and employ thousands of employees every month.
+Deel (YC W19) allows you to hire anyone, anywhere in the world as a contractor or full time employee. As first PM hire, I've been leading the efforts to productize the EOR (employer on record) offering from a POC to a scalable product that allows us to onboard and employ thousands of employees every month.
+Pensa Systems logo
+Senior Product Manager
+Senior Product Manager
+Pensa Systems · Full-timePensa Systems · Full-time
+Jun 2019 - Mar 2021 · 1 yr 10 mosJun 2019 to Mar 2021 · 1 yr 10 mos
+Pensa is a retail analytics company that uses cutting edge machine learning, computer vision and autonomous drone technology to analyze and report shelf conditions.
+Pensa is a retail analytics company that uses cutting edge machine learning, computer vision and autonomous drone technology to analyze and report shelf conditions.
+ATÖLYE logo
+Service Designer
+Service Designer
+ATÖLYE · ContractATÖLYE · Contract
+Jul 2019 - Sep 2019 · 3 mosJul 2019 to Sep 2019 · 3 mos
+Istanbul, TürkiyeIstanbul, Türkiye
+Worked as a part-time service designer on a project to generate new revenue streams for Turkey's largest appliances manufacturer.
+Worked as a part-time service designer on a project to generate new revenue streams for Turkey's largest appliances manufacturer.
+Co-Founder
+Co-Founder
+Co-Founder
+EmileEmile
+Mar 2016 - Mar 2019 · 3 yrs 1 moMar 2016 to Mar 2019 · 3 yrs 1 mo
+Greater PhiladelphiaGreater Philadelphia
+Emile is a friendly SMS chatbot that helps you get to bed earlier. Give it a try on www.emile.chat
+Emile is a friendly SMS chatbot that helps you get to bed earlier. Give it a try on www.emile.chat
+
+Stop Hitting SnoozeStop Hitting Snooze
+Take back your bedtime. Wake up earlier and get more 😴with just one text a day.Take back your bedtime. Wake up earlier and get more 😴with just one text a day.
+
+Seven New Companies Started By MillennialsSeven New Companies Started By Millennials
+Seven new companies to keep an eye on coming out of the Venture for America accelerator.Seven new companies to keep an eye on coming out of the Venture for America accelerator.
+
+The Hottest Way to Self-Improvement in 2017The Hottest Way to Self-Improvement in 2017
+Forget the blogs, sites, apps, and books — Emile is coming and it could be the best way to a better you.Forget the blogs, sites, apps, and books — Emile is coming and it could be the best way to a better you.
+30 Weeks logo
+Design Founder
+Design Founder
+30 Weeks30 Weeks
+Mar 2016 - Sep 2016 · 7 mosMar 2016 to Sep 2016 · 7 mos
+New York City Metropolitan AreaNew York City Metropolitan Area
+30 Weeks is an incubator that transforms designers into founders. The 30 Weeks program is operated by Hyper Island in partnership with SVA, Parsons, Pratt, The Cooper Union and Google Creative Lab with mentorship from Frog and Betaworks among others.
+
+I was accepted to 30 Weeks on a full scholarship as one of sixteen designers in the 2016 cohort. During my time at the program I explored what a more humane approach to self-improvement could look like.
+30 Weeks is an incubator that transforms designers into founders. The 30 Weeks program is operated by Hyper Island in partnership with SVA, Parsons, Pratt, The Cooper Union and Google Creative Lab with mentorship from Frog and Betaworks among others. I was accepted to 30 Weeks on a full scholarship as one of sixteen designers in the 2016 cohort. During my time at the program I explored what a more humane approach to self-improvement could look like.
+
+30 Weeks Demo Day - Emile30 Weeks Demo Day - Emile
+30 Weeks Demo Day pitch for Emile, a friendly self-improvement chatbot.30 Weeks Demo Day pitch for Emile, a friendly self-improvement chatbot.
+Kairos logo
+Designer/Product Manager
+Designer/Product Manager
+Kairos Inc.Kairos Inc.
+Aug 2014 - Feb 2016 · 1 yr 7 mosAug 2014 to Feb 2016 · 1 yr 7 mos
+Miami-Fort Lauderdale AreaMiami-Fort Lauderdale Area
+Kairos is a venture-backed facial recognition software company that allows users to integrate advanced security features into their applications and services. 
+
+At Kairos, I worked on a range of projects across product management, design and strategy. Selected responsibilities include:
+
+- Working on design, marketing strategy and content creation for Kairos.com
+- Conducting UX research for developer tools
+- Leading the design and development of Project Look, a market research tool that uses emotion detection to measure people’s reactions to video content
+- Developing Project Look's A/B testing algorithm
+Kairos is a venture-backed facial recognition software company that allows users to integrate advanced security features into their applications and services. At Kairos, I worked on a range of projects across product management, design and strategy. Selected responsibilities include: - Working on design, marketing strategy and content creation for Kairos.com - Conducting UX research for developer tools - Leading the design and development of Project Look, a market research tool that uses emotion detection to measure people’s reactions to video content - Developing Project Look's A/B testing algorithm
+Venture For America logo
+Fellow
+Fellow
+Venture For AmericaVenture For America
+2014 - 2016 · 2 yrs2014 to 2016 · 2 yrs
+Venture For America is a fellowship program for recent college graduates who want to become startup leaders and entrepreneurs.
+
+I was accepted to the Class of 2014 as VFA's first international fellow.
+Venture For America is a fellowship program for recent college graduates who want to become startup leaders and entrepreneurs. I was accepted to the Class of 2014 as VFA's first international fellow.
+Brooklyn Museum logo
+Elizabeth A. Sackler Center Curatorial Intern
+Elizabeth A. Sackler Center Curatorial Intern
+Brooklyn MuseumBrooklyn Museum
+Sep 2012 - Feb 2013 · 6 mosSep 2012 to Feb 2013 · 6 mos
+New York City Metropolitan AreaNew York City Metropolitan Area
+Brant Publications, Inc. logo
+Marketing and Editorial Intern
+Marketing and Editorial Intern
+Brant PublicationsBrant Publications
+Feb 2012 - Jul 2012 · 6 mosFeb 2012 to Jul 2012 · 6 mos
+New York City Metropolitan AreaNew York City Metropolitan Area
+İstanbul Modern logo
+Education Intern
+Education Intern
+Istanbul ModernIstanbul Modern
+Jun 2011 - Jul 2011 · 2 mosJun 2011 to Jul 2011 · 2 mos
+Istanbul, Istanbul, TürkiyeIstanbul, Istanbul, Türkiye
+Alametifarika logo
+Strategy Intern
+Strategy Intern
+AlametifarikaAlametifarika
+May 2010 - Jun 2010 · 2 mosMay 2010 to Jun 2010 · 2 mos
+Istanbul
+
+
+Kaiwen Song
+CTO / Co-founder @ Paloma (YC S25) | Ex-Deel, Bloomberg
+
+More
+
+Follow
+
+Message
+Kaiwen Song
+Kaiwen Song
+  3rd degree connection3rd
+CTO / Co-founder @ Paloma (YC S25) | Ex-Deel, Bloomberg
+
+Paloma (YC S25)
+
+Imperial College London
+London, England, United Kingdom  Contact info
+500+ connections
+
+Message
+
+Follow
+
+More
+AboutAbout
+Currently working as the Director of Engineering at Deel, a series-E unicorn startup. I help to look after teams that ensure payments get delivered to our users in a reliable and predictable way, transferring millions internationally on a monthly basis to more than 100 countries. My day-to-day responsibilities include streamlining the team's processes, facilitating the team to deliver high quality software at a rapid pace, prioritising and scoping projects, coordinating between various stakeholders and dependencies, and ensuring the team members are fulfilling their career ambitions. 
+
+I was previously a software engineer on the Communication Channels team at Bloomberg L.P. in London for over 3 years, where I worked primarily with C++ and Python on a day-to-day basis. Took part in various projects to improve and renovate Bloomberg Terminal's key communication products in IB and MSG. I actively worked on upgrading the data pipelines from using existing, proprietary technologies to using Kafka.
+
+I graduated from Imperial College London in 2017 with first class Honours in MEng Computing. During my studies, I took special interests in Computer Vision / Machine Learning systems, as well as industry-focused software systems/engineering principles. 
+
+My main area of interests are large-scale, distributed systems designs, and solving challenging but relevant technical problems, as well as innovative technological solutions to the problems that our society faces today. I enjoy working in co-operative environments, and I am always excited to dive into domains/technologies that I have not worked with previously.Currently working as the Director of Engineering at Deel, a series-E unicorn startup. I help to look after teams that ensure payments get delivered to our users in a reliable and predictable way, transferring millions internationally on a monthly basis to more than 100 countries. My day-to-day responsibilities include streamlining the team's processes, facilitating the team to deliver high quality software at a rapid pace, prioritising and scoping projects, coordinating between various stakeholders and dependencies, and ensuring the team members are fulfilling their career ambitions. I was previously a software engineer on the Communication Channels team at Bloomberg L.P. in London for over 3 years, where I worked primarily with C++ and Python on a day-to-day basis. Took part in various projects to improve and renovate Bloomberg Terminal's key communication products in IB and MSG. I actively worked on upgrading the data pipelines from using existing, proprietary technologies to using Kafka. I graduated from Imperial College London in 2017 with first class Honours in MEng Computing. During my studies, I took special interests in Computer Vision / Machine Learning systems, as well as industry-focused software systems/engineering principles. My main area of interests are large-scale, distributed systems designs, and solving challenging but relevant technical problems, as well as innovative technological solutions to the problems that our society faces today. I enjoy working in co-operative environments, and I am always excited to dive into domains/technologies that I have not worked with previously.…see more
+ActivityActivity
+1,091 followers1,091 followers
+
+
+Posts
+
+Comments
+
+Images
+Loaded 3 Posts posts
+View Kaiwen Song’s  graphic link
+Kaiwen SongKaiwen Song
+ • 3rd+3rd+
+CTO / Co-founder @ Paloma (YC S25) | Ex-Deel, BloombergCTO / Co-founder @ Paloma (YC S25) | Ex-Deel, Bloomberg
+1w •  1 week ago • Visible to anyone on or off LinkedIn
+
+Claude 4 Opus haiku of this post: 
+
+Leaving Deel behind— 
+Photobombed by fate's design, 
+AI calls me home.
+
+-------------------------------------------------------------------------------
+I didn't get that last bit either. 
+
+Anyways, longer version of the post: 
+
+6 weeks ago when I got the call from Y Combinator, I dropped everything in my life in an instant to jump on the opportunity. Today we got photobombed by the man who started it all. Building yet another chatGPT wrapper was my destiny, so it seems. 
+
+Whilst at Deel, there almost was a time dilation effect where you're so used to progress and growth at lightning speed, that everything else slowed down around you. Now starting from scratch again in the search for PMF, It's been far from smooth sailing. Everyday is a never-ending cycle of talking to users, scratching heads, and getting closer to building something that people want. 
+
+I want to also give a shoutout to the Deel family, it's been a privilege sharing such a special journey with all of you, and I will always be rooting for you. 
+
+If you want to follow our journey: https://lnkd.in/gKZbA4Uu 🫰
+…more
+Activate to view larger image,
+No alternative text description for this image
+1/2
+Activate to view larger image,
+likelovecelebrate
+193
+31 comments
+1 repost
+
+
+
+
+View Kaiwen Song’s  graphic link
+Kaiwen SongKaiwen Song
+ • 3rd+3rd+
+CTO / Co-founder @ Paloma (YC S25) | Ex-Deel, BloombergCTO / Co-founder @ Paloma (YC S25) | Ex-Deel, Bloomberg
+1mo •  1 month ago • Visible to anyone on or off LinkedIn
+
+Super exciting opportunity to work on a world class fintech system 🚀and Capi’s one of the best engineering managers I’ve ever worked with
+View Corneliu Firan’s  graphic link
+Corneliu FiranCorneliu Firan
+   • 3rd+Verified • 3rd+
+Associate Director of Engineering @ DeelAssociate Director of Engineering @ Deel
+Looking for a Team Lead to join me! 
+
+Fintech team, dealing with invoicing and payroll, very challenging and impactful domain. Backend heavy, solid relational DB skills, very good at organising and planning for the quarter. Company that respects you, filled with truly talented people. Hard not to grow here.
+
+If this sounds like your kind of challenge, let’s talk.
+…more
+likelovecelebrate
+49
+1 comment
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Paloma (YC S25) logo
+CTO / Co-founder 
+CTO / Co-founder 
+Paloma (YC S25) · Full-timePaloma (YC S25) · Full-time
+Jun 2025 - Present · 3 mosJun 2025 to Present · 3 mos
+San Francisco, California, United States · On-siteSan Francisco, California, United States · On-site
+Building an AI-native quote-to-cash platform that fits your business like a glove. Unlike incumbent solutions, we allow you define your business rules in natural language, and everything just works.
+Book a chat with us! https://calendar.app.google/r3kCSozrXYa7mHiB8Building an AI-native quote-to-cash platform that fits your business like a glove. Unlike incumbent solutions, we allow you define your business rules in natural language, and everything just works. Book a chat with us! https://calendar.app.google/r3kCSozrXYa7mHiB8…see more
+Deel logo
+Deel
+Deel
+4 yrs 10 mos4 yrs 10 mos
+Director of Engineering
+Director of Engineering
+Sep 2023 - Jul 2025 · 1 yr 11 mosSep 2023 to Jul 2025 · 1 yr 11 mos
+London Area, United Kingdom · RemoteLondon Area, United Kingdom · Remote
+Currently looking after 6 teams primarily managing the payment experience and payments / wallet infrastructure, credit control, and payment reconciliation processes. Work with Legal, Business Development, Finance and Treasury, Product and Engineering teams to reshape the payments infrastructure to meet regulatory and compliance requirements on a global scale. 
+
+In total, I had built up 11 teams in the payments space, and I am deeply involved in the hiring process.Currently looking after 6 teams primarily managing the payment experience and payments / wallet infrastructure, credit control, and payment reconciliation processes. Work with Legal, Business Development, Finance and Treasury, Product and Engineering teams to reshape the payments infrastructure to meet regulatory and compliance requirements on a global scale. In total, I had built up 11 teams in the payments space, and I am deeply involved in the hiring process.…see more
+Senior Software Engineering Manager
+Senior Software Engineering Manager
+Jan 2023 - Sep 2023 · 9 mosJan 2023 to Sep 2023 · 9 mos
+Extended my scope to include Invoicing, Pricing and Billing. Led the efforts to centralise and standardise the invoicing operations across all product lines to facilitate finance automation, and deprecate processes that were not approved / standard. Helped to design and build out the initial versions of Billing Service, which holistically managed the billing operations for the Global Payroll product, as well as extending bespoke pricing capabilities. Started leading a mix of team leads and ICs.Extended my scope to include Invoicing, Pricing and Billing. Led the efforts to centralise and standardise the invoicing operations across all product lines to facilitate finance automation, and deprecate processes that were not approved / standard. Helped to design and build out the initial versions of Billing Service, which holistically managed the billing operations for the Global Payroll product, as well as extending bespoke pricing capabilities. Started leading a mix of team leads and ICs.…see more
+Software Engineering Manager
+Software Engineering Manager
+Jun 2021 - Jan 2023 · 1 yr 8 mosJun 2021 to Jan 2023 · 1 yr 8 mos
+Led the initiative to strengthen the payments infrastructure, extending payout capabilities towards employees which helped to propel the EOR and Global Payroll businesses. Also helped to oversee projects revamping payment experiences for both clients and workers. Created and shaped the hiring process for new developers coming onto the teams, as well as onboarded new teammates. Worked on iterating on the Scrum processes alongside my product manager. Created the triage process for the team that was later widely adopted by the whole company.Led the initiative to strengthen the payments infrastructure, extending payout capabilities towards employees which helped to propel the EOR and Global Payroll businesses. Also helped to oversee projects revamping payment experiences for both clients and workers. Created and shaped the hiring process for new developers coming onto the teams, as well as onboarded new teammates. Worked on iterating on the Scrum processes alongside my product manager. Created the triage process for the team that was later widely adopted by the whole company.…see more
+Show all 4 experiences
+Bloomberg logo
+Senior Software Engineer
+Senior Software Engineer
+Bloomberg LP · Full-timeBloomberg LP · Full-time
+Aug 2017 - Oct 2020 · 3 yrs 3 mosAug 2017 to Oct 2020 · 3 yrs 3 mos
+London Area, United KingdomLondon Area, United Kingdom
+I worked as a member of the Communications Channels engineering team. The main responsibility of my team is to renovate and maintain the messaging distribution pipelines that facilitate two of the most widely-used communciation products in IB and MSG.
+
+During my time here I worked as a scrum master for the team, and also took part in projects such as
+- re-architecturing IB and MSG distrubtion systems,
+- re-designing and implementing user presence systems with C++, Python, and Kafka
+- adding new features to the IB application,
+- reworking IB integration with other Terminal functions
+
+On the job I primarily used C++ and Python on a day to day basis, leveraging other technologies such as Kafka, Protobuf, Docker, and Cmake for our projects and testing. I worked as a member of the Communications Channels engineering team. The main responsibility of my team is to renovate and maintain the messaging distribution pipelines that facilitate two of the most widely-used communciation products in IB and MSG. During my time here I worked as a scrum master for the team, and also took part in projects such as - re-architecturing IB and MSG distrubtion systems, - re-designing and implementing user presence systems with C++, Python, and Kafka - adding new features to the IB application, - reworking IB integration with other Terminal functions On the job I primarily used C++ and Python on a day to day basis, leveraging other technologies such as Kafka, Protobuf, Docker, and Cmake for our projects and testing. …see more
+FundApps logo
+Software Engineer Intern
+Software Engineer Intern
+FundAppsFundApps
+Apr 2016 - Sep 2016 · 6 mosApr 2016 to Sep 2016 · 6 mos
+London Area, United KingdomLondon Area, United Kingdom
+Spent 6 months working at a Fintech startup, projects/products worked on include:
+- Market Data Service written in F#.
+- Notification Service written in Golang and C#. 
+- Data Analytics Tool written in Python.Spent 6 months working at a Fintech startup, projects/products worked on include: - Market Data Service written in F#. - Notification Service written in Golang and C#. - Data Analytics Tool written in Python.…see more
+Imperial College London logo
+Undergraduate Research Assistant
+Undergraduate Research Assistant
+Imperial College LondonImperial College London
+Jul 2015 - Sep 2015 · 3 mosJul 2015 to Sep 2015 · 3 mos
+London Area, United KingdomLondon Area, United Kingdom
+Undertook an 8-week individual project working with the DAKOTA toolkit and existing research frameworks to carry out automated optimisation and uncertainty analysis. Used Python to interface frameworks and to create graphical data-analysis tools, and worked with College’s High Performance Computers using MPI.Undertook an 8-week individual project working with the DAKOTA toolkit and existing research frameworks to carry out automated optimisation and uncertainty analysis. Used Python to interface frameworks and to create graphical data-analysis tools, and worked with College’s High Performance Computers using MPI.…see more
+EducationEducation
+Imperial College London logo
+Imperial College London
+Imperial College London
+Master’s Degree, ComputingMaster’s Degree, Computing
+2013 - 20172013 - 2017
+Grade: First Class HonoursGrade: First Class Honours
+- Masters thesis on using Machine Learning techniques to improve the accuracy of Computer Vision systems at segmenting semantic information of their surroundings. 
+- Focus on Machine Learning, Computer Vision, and Large-Scale Distributed Systems. 
+- Masters thesis on using Machine Learning techniques to improve the accuracy of Computer Vision systems at segmenting semantic information of their surroundings. - Focus on Machine Learning, Computer Vision, and Large-Scale Distributed Systems. …see more
+King Edward VI Grammar School, Chelmsford
+King Edward VI Grammar School, Chelmsford
+King Edward VI Grammar School, Chelmsford
+High School, Mathematics, Physics, Chemistry, EconomicsHigh School, Mathematics, Physics, Chemistry, Economics
+2011 - 20132011 - 2013
+Grade: Mathematics - A*, Further Mathematics - A*, Chemistry - A*, Physics - AGrade: Mathematics - A*, Further Mathematics - A*, Chemistry - A*, Physics - A
+Activities and societies: UKMT National Mathematics Team Challenge Competition,
+Mathematics mentor, 
+Computer project mentorActivities and societies: UKMT National Mathematics Team Challenge Competition, Mathematics mentor, Computer project mentor
+ProjectsProjects
+SemanticFusion
+SemanticFusion
+Oct 2016 - PresentOct 2016 - Present
+Imperial College London logo
+Associated with Imperial College London
+Associated with Imperial College London
+Individual project on semantic labelling of 3D scenes scanned using ElasticFusion, and exploring its applications in Autonomous Robotic Agents and Human-Computer Interaction. The project involves aspects of Computer Vision, Neutral Network, and Probability Theory.Individual project on semantic labelling of 3D scenes scanned using ElasticFusion, and exploring its applications in Autonomous Robotic Agents and Human-Computer Interaction. The project involves aspects of Computer Vision, Neutral Network, and Probability Theory.…see more
+Navblue Indoor Navigation System
+Navblue Indoor Navigation System
+Oct 2015 - PresentOct 2015 - Present
+Imperial College London logo
+Associated with Imperial College London
+Associated with Imperial College London
+Worked in a team of 6 to create a flexible and scalable indoor navigation system. The system requires a simple set up process where bluetooth be
+
+
+官网
+Book a demo
+Go from demo booked to invoice issued faster
+Paloma is a modular AI-native quote to cash platform that lets you set up pricing, quoting, and billing using natural language.
+
+Book a demo
+abstract bg
+Enterprise-grade robustness with startup-level agility
+abstract illustration
+Fully modular
+Use quoting and billing together for a seamless quote-to-cash flow or run them independently alongside your existing tools. Start where you need the most help and expand at your own pace.
+
+abstract illustration
+No-code
+From product list setup to billing rules, everything can be configured in plain English. If you can describe it, Paloma can handle it.
+
+abstract illustration
+Ingest any source of truth
+Upload PDFs, forward emails, or sync CRM chatter. Paloma can read and understand any input format without forcing you into a rigid template.
+
+abstract illustration
+Customized human-in-the-loop
+Define exactly what needs approval and how each approval flow should work. Paloma learns from every decision so over time, fewer quotes and invoices require manual review.
+
+abstract illustration
+Searchable knowledge base
+Ask questions like “Who has 30-day net payment terms?” or “Which contracts have volume discounts?” and get instant answers from your deal history.
+
+abstract bg
+Built for Growth
+Paloma is for teams that want agility at scale. Try new models, tweak terms, run bespoke deals without worrying about how you'll track or bill them.
+
+We've built and scaled quoting, invoicing, billing, and payroll at rocketships like Deel and Revolut.
+
+Now we're combining our best practices with the latest in AI to reimagine quote-to-cash from the ground up.
+
+abstract bg
+What we’re building next
+Interactive deal rooms
+Visually rich, collaborative spaces where you can share sales collateral, leave comments and align with clients on deal terms.
+
+Reusable logic playbooks
+Turn “how we handle X” into structured playbooks. From fee waivers to pricing floors, codify your tribal knowledge across quoting and billing.
+
+Proactive suggestions
+We monitor your customer conversations and flag billing-impacting exceptions like ad hoc discounts or credits for you to review before the invoices go out.
+
+Renewals tracking
+Stay ahead of every renewal with automated alerts, usage-based upsell suggestions and full deal history so nothing slips through the cracks.
+
+abstract bg
+An engine with real world depth
+Experience quote-to-cash built to handle every dimension of how you sell.
+
+Book a demo

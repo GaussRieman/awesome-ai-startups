@@ -1,0 +1,557 @@
+Uplift AI
+Foundational Voice AI for underserved languages
+Summer 2025
+Active
+speech-recognition
+conversational-ai
+Company
+Jobs
+0
+ https://upliftai.org/
+We build speech understanding and speech generation models for the five major languages spoken in Pakistan, where 42% of the adult population can not read any language.
+
+Pakistan is the 5th most populous country in the world with a $411 billion GDP. Yet its overlooked and no practical voice models exist for the local languages.
+
+With our APIs and SDKs, businesses offer high-quality voice interfaces in domains like banking, agriculture, healthcare, and government services. This enables them to finally offer digital services to every customer -- often for the first time.
+
+Our founding team has a decade of experience building world-leading voice products, including at Alexa and Siri. We have launched entire AWS services; and software written by us previously is used by millions daily.
+
+We do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.
+
+We are on a mission to uplift entire nations through better access to digital information and digital services.
+Active Founders
+Muhammad Bin Sabir
+Muhammad Bin Sabir
+Founder
+COO at Uplift AI. Building Voice AI for underserved languages. Previously: Founder at Alt Ventures, accelerator for Pakistani founders. LUMS alumni.
+Twitter account
+ 
+Hammad Malik
+Hammad Malik
+Founder
+CEO at Uplift AI. Building Voice AI for underserved languages. Previously: Apple Siri, Amazon Alexa. Cornell and LUMS alumni.
+ 
+Zaid Qureshi
+Zaid Qureshi
+Founder
+CTO at Uplift AI. Building Voice AI for underserved languages. Previously did some cool projects at AWS Bedrock and Amazon Supply chain.
+Twitter account
+ 
+
+ Zaid Qureshi
+CTO Uplift AI (YC S25) | Building VoiceAI for a billion people | xAmazon
+
+More
+
+Follow
+
+Message
+
+Experience
+Uplift AI logo
+Co-Founder & CTO
+Co-Founder & CTO
+Uplift AI · Full-timeUplift AI · Full-time
+Sep 2024 - Present · 1 yrSep 2024 to Present · 1 yr
+Amazon logo
+Senior Software Engineer
+Senior Software Engineer
+Amazon · Permanent Full-timeAmazon · Permanent Full-time
+Apr 2020 - Aug 2024 · 4 yrs 5 mosApr 2020 to Aug 2024 · 4 yrs 5 mos
+Seattle, Washington, United StatesSeattle, Washington, United States
+Launched Bedrock Guardrails (LLM Safety) at AWS and led import shipment optimization at Amazon. Its amazing how small optimizations led to $100M/year savings.
+Launched Bedrock Guardrails (LLM Safety) at AWS and led import shipment optimization at Amazon. Its amazing how small optimizations led to $100M/year savings.
+Founder
+Founder
+Founder
+LearnlyLearnly
+Aug 2021 - Oct 2023 · 2 yrs 3 mosAug 2021 to Oct 2023 · 2 yrs 3 mos
+Greater Toronto Area, CanadaGreater Toronto Area, Canada
+Built Learnly as a side project - my coding bootcamp that focuses on problem-solving over syntax. Free at learnly.dev
+Built Learnly as a side project - my coding bootcamp that focuses on problem-solving over syntax. Free at learnly.dev
+Paymentus logo
+Senior Software Engineer
+Senior Software Engineer
+PaymentusPaymentus
+May 2016 - Apr 2020 · 4 yrsMay 2016 to Apr 2020 · 4 yrs
+Greater Toronto Area, CanadaGreater Toronto Area, Canada
+Made payment systems and no-code tools that took client onboarding from months to minutes.
+Made payment systems and no-code tools that took client onboarding from months to minutes.
+iQonsulting logo
+Lead Technical Consultant (Contract)
+Lead Technical Consultant (Contract)
+iQonsultingiQonsulting
+Sep 2018 - Nov 2018 · 3 mosSep 2018 to Nov 2018 · 3 mos
+Greater Toronto Area, CanadaGreater Toronto Area, Canada
+Skills: Business Process Improvement
+Skills: Business Process Improvement
+SHOEBOX Ltd. logo
+Cloud Developer
+Cloud Developer
+Clearwater Clinical LimitedClearwater Clinical Limited
+Sep 2015 - May 2016 · 9 mosSep 2015 to May 2016 · 9 mos
+Greater Ottawa Metropolitan AreaGreater Ottawa Metropolitan Area
+Telepin logo
+Mobile Application Developer
+Mobile Application Developer
+Telepin SoftwareTelepin Software
+Jan 2015 - May 2015 · 5 mosJan 2015 to May 2015 · 5 mos
+411 Legget Drive Suite 100 Ottawa, Ontario, Canada411 Legget Drive Suite 100 Ottawa, Ontario, Canada
+Developed the Android application for Telepin's mobile money management solution, enabling secure mobile payments.
+Developed the Android application for Telepin's mobile money management solution, enabling secure mobile payments.
+Technical Consultant & Full Stack Developer (Contract)
+Technical Consultant & Full Stack Developer (Contract)
+Technical Consultant & Full Stack Developer (Contract)
+Agile Governance ServicesAgile Governance Services
+Sep 2012 - Jan 2015 · 2 yrs 5 mosSep 2012 to Jan 2015 · 2 yrs 5 mos
+Greater Toronto Area, CanadaGreater Toronto Area, Canada
+WiConnect Corp. logo
+IT Specialist Intern
+IT Specialist Intern
+WiConnect Corp.WiConnect Corp.
+Jun 2013 - Jul 2013 · 2 mosJun 2013 to Jul 2013 · 2 mos
+100 King st west, Toronto
+
+
+
+Hammad Malik 
+  3rd degree connection3rd
+CEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMS
+
+Uplift AI
+
+Cornell University
+San Francisco, California, United States  Contact info
+Send text on WhatsApp  
+7,627 followers 
+500+ connections
+
+Follow
+
+Message
+
+More
+FeaturedFeatured
+Post
+Post
+Introducing hashtag#Balochi Orator: An AI Model that Speaks Balochi with Human-like Realism
+
+As of today, Orator is the world's first Balochi model to achieve human like speech. 
+
+I encourage you to try the model yourself. Request access at https://lnkd.in/dC7RnZBW
+
+And of course, as of now we are better than OpenAI, Google and ElevenLabs in Balochi speech -- by a looong margin :)
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language. 
+
+# What does hashtag#UpliftAI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Make voice technology so good and cost effective that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer forward thinking organizations that have large distribution and can use Voice AI to benefit people. 
+ 👉  Refer at: upliftAI.org/refer-balochi
+
+
+hashtag#Balochi hashtag#Balochistan hashtag#VoiceAI
+
+likecelebratelove
+481
+66 comments
+Post
+Post
+Introducing hashtag#Sindhi Orator: An AI Model that Speaks Sindhi with Human-like Realism
+- It outperforms OpenAI, ElevenLabs, Microsoft and all other models.
+- It is 60 times cheaper.
+
+At the moment, Orator is the world's best Sindhi speaking model. I encourage you to try the model yourself. Request access at upliftAI.org/access-sindhi
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language.
+
+# What does Uplift AI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Design voice interfaces that are effortless and natural to use
+- Make voice technology so affordable that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer forward thinking organizations that have large distribution and can use Voice AI to benefit people. 
+ 👉  Refer at: upliftAI.org/refer-sindhi
+
+hashtag#Sindhi hashtag#Sindh
+
+likelovecelebrate
+1,122
+169 comments
+Post
+Post
+Khan Academy has officially published 104 Videos using Uplift AI's Urdu speaking AI models. A few thousand more are in the pipeline. 
+
+Historically they have not been able to use AI voices to dub educational videos into Urdu language coz the AI Voice Models from Google, OpenAI, ElevenLabs and others were not good enough.
+
+Using our Urdu speaking models, they were able to dub videos from English into Urdu in 10x less time and 100x less cost than having a professional do the dubbing. Exciting times... 
+
+Congrats Mudassir and Zeeshan Hasan. 
+Khan Academy Pakistan, Khan Academy.
+
+One more thing... we are launching the world's best Balochi and Sindhi speaking models in a few days.
+
+likecelebratelove
+1,751
+168 comments
+Post
+Post
+Introducing Orator: An AI Model that Speaks Urdu with Human-like Realism
+- It outperforms OpenAI, ElevenLabs, Microsoft and all other models.
+- It is 60 times cheaper.
+
+I encourage you to visit our website. It has lots of audio samples that you would love listening to: upliftAI.org/orator
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language.
+
+# What does UpliftAI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Design voice interfaces that are effortless and natural to use
+- Make voice technology so affordable that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer exceptional voice talent to us. We are looking for exceptional voices in Urdu, Punjabi, Pashto, Sindhi, and Balochi. All ages are welcome. 
+ 👉  Refer or apply at: upliftAI.org/talent 
+Btw, there is a very significant referral bonus, see website for details.
+
+likecelebratelove
+2,493
+289 comments
+Post
+Post
+Automatically dubbing educational videos into Urdu is one of the many impactful applications of Orator, our lifelike Urdu speech model.
+
+While such dubbing is possible in Urdu (and soon Sindhi), work is still needed on:
+👉 Pashto, Balochi, Punjabi, and Saraiki.
+
+💡You can help us! 💡
+
+The simplest way to assist us is to help us find:
+- Professional voice artists – People with voices that are great for informational and educational content.
+- Professional typists – People with professional experience typing these languages.
+
+Tag them here or 
+email us at hello@upliftai.org or 
+apply at upliftai.org/talent
+
+⸻
+
+🎬 Now back to AI dubbing!
+Traditionally, manually dubbing a 2-minute video can take anywhere from 1 to 3 hours. But with AI-assisted dubbing tools, this process can be completed in just a few minutes!
+
+In this video, you’ll see how our software analyzes the original video, translates it, and synchronizes the Urdu speech to match the on-screen content.
+
+BTW: I could have used other Orator voices that are more suited for educational content, but I chose this one because I found it more fun! 
+
+—— 
+
+Learn more about Orator: upliftai.org/orator
+
+📢 P.S. We are hiring! upliftai.org/jobs
+
+likelovecelebrate
+183
+26 comments
+
+ActivityActivity
+7,627 followers7,627 followers
+
+
+Follow
+
+Posts
+
+Comments
+
+Videos
+
+Images
+Loaded 9 Posts posts
+View Hammad Malik’s  graphic link
+Hammad MalikHammad Malik
+   • 3rd+Premium • 3rd+
+CEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMSCEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMS
+1w • Edited •  1 week ago • Edited • Visible to anyone on or off LinkedIn
+
+Excited to announce that Uplift AI is backed by Y Combinator
+
+YCombinator has a track record of creating companies that change the world a little... Like Airbnb, Stripe, DoorDash, Coinbase, Dropbox, Instacart, Reddit, Twitch and so many more. 
+
+UpliftAI develops world leading Voice Models for underserved languages. Nearly a billion people around the world can’t read, so traditional text-based apps and websites don’t work for them. With our voice models, they’ll be able to access knowledge and digital services — often for the very first time.
+
+We already have the best models in the world for 3 languages. And in ~2 weeks it will be 5.... 
+
+Extremely excited about how our work will change the world a little.... 🤞
+
+P.s Our co-founder Muhammad Bin Sabir couldn't make it into this photo... coz he was busy selling stuff :)
+…more
+Activate to view larger image,
+No alternative text description for this image
+Activate to view larger image,
+with Zaid Qureshi and 2 others
+likecelebratelove
+1,810
+149 comments
+15 reposts
+
+
+
+
+View Hammad Malik’s  graphic link
+Hammad MalikHammad Malik
+   • 3rd+Premium • 3rd+
+CEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMSCEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMS
+1w • Edited •  1 week ago • Edited • Visible to anyone on or off LinkedIn
+
+Introducing hashtag#Balochi Orator: An AI Model that Speaks Balochi with Human-like Realism
+
+As of today, Orator is the world's first Balochi model to achieve human like speech. 
+
+I encourage you to try the model yourself. Request access at https://lnkd.in/dC7RnZBW
+
+And of course, as of now we are better than OpenAI, Google and ElevenLabs in Balochi speech -- by a looong margin :)
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language. 
+
+# What does hashtag#UpliftAI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Make voice technology so good and cost effective that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer forward thinking organizations that have large distribution and can use Voice AI to benefit people. 
+ 👉  Refer at: upliftAI.org/refer-balochi
+
+
+hashtag#Balochi hashtag#Balochistan hashtag#VoiceAI
+…more
+
+
+likecelebratelove
+481
+66 comments
+26 reposts
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Uplift AI logo
+Chief Executive Officer
+Chief Executive Officer
+Uplift AI · Self-employedUplift AI · Self-employed
+Feb 2024 - Present · 1 yr 7 mosFeb 2024 to Present · 1 yr 7 mos
+Washington, United StatesWashington, United States
+Almost a billion people in the world cannot read. Text-based websites and apps haven't worked for them, and as a result much of the world hasn’t been able to adopt digital services.
+
+We are making Voice AI models for underserved languages so people can access knowledge and digital services simply by speaking to a computer in their local language.
+
+We are currently focusing our efforts on Pakistan, the fifth most populous country in the world, where 42% of the adult population cannot read.Almost a billion people in the world cannot read. Text-based websites and apps haven't worked for them, and as a result much of the world hasn’t been able to adopt digital services. We are making Voice AI models for underserved languages so people can access knowledge and digital services simply by speaking to a computer in their local language. We are currently focusing our efforts on Pakistan, the fifth most populous country in the world, where 42% of the adult population cannot read.…see more
+Apple logo
+Senior Machine Learning Engineer | DRI | Team Lead
+Senior Machine Learning Engineer | DRI | Team Lead
+Apple · Full-timeApple · Full-time
+Oct 2019 - Dec 2023 · 4 yrs 3 mosOct 2019 to Dec 2023 · 4 yrs 3 mos
+Seattle, WashingtonSeattle, Washington
+- Siri Search Experiences: Finance, GIF, Flights, Stocks, Sports.
+- Upcoming Siri LLM powered Search experiences- Siri Search Experiences: Finance, GIF, Flights, Stocks, Sports. - Upcoming Siri LLM powered Search experiences
+Amazon logo
+Software Development Engineer 2
+Software Development Engineer 2
+Amazon · Full-timeAmazon · Full-time
+Jul 2015 - Oct 2019 · 4 yrs 4 mosJul 2015 to Oct 2019 · 4 yrs 4 mos
+Seattle, WashingtonSeattle, Washington
+Alexa PersonalityAlexa Personality
+Yahoo logo
+Associate Product Manager
+Associate Product Manager
+YahooYahoo
+Sep 2014 - Apr 2015 · 8 mosSep 2014 to Apr 2015 · 8 mos
+San Francisco Bay AreaSan Francisco Bay Area
+Cornell University logo
+Research Student at Design Interaction Lab
+Research Student at Design Interaction Lab
+Cornell UniversityCornell University
+Aug 2013 - Jun 2014 · 11 mosAug 2013 to Jun 2014 · 11 mos
+Tompkins County, New York, United StatesTompkins County, New York, United States
+Designed and developed video games that make users aware of their casual habits.Designed and developed video games that make users aware of their casual habits.
+Show all 8 experiences
+EducationEducation
+Cornell University logo
+Cornell University
+Cornell University
+Masters, Computer ScienceMasters, Computer Science
+2013 - 20142013 - 2014
+Grade: 3.76Grade: 3.76
+Activities and societies: Software Entrepreneurship Society, Ice Hockey, SwimmingActivities and societies: Software Entrepreneurship Society, Ice Hockey, Swimming
+Specialized in Scalable Web Architecture and Distributed Systems. Also studied Human Computer Interaction Design, Entrepreneurship and Business Ownership.Specialized in Scalable Web Architecture and Distributed Systems. Also studied Human Computer Interaction Design, Entrepreneurship and Business Ownership.
+Lahore University of Management Sciences logo
+Lahore University of Management Sciences
+Lahore University of Management Sciences
+Bachelor of Science (B.S.), Computer ScienceBachelor of Science (B.S.), Computer Science
+2009 - 20132009 - 2013
+Activities and societies: Convener LUMS PsiFi, Coordinator LUMS Orientation Week 2013, Director IT at SPADES, Creative Director SMUDGE, Various Freelance Web Development and Creative Design ProjectsActivities and societies: Convener LUMS PsiFi, Coordinator LUMS Orientation Week 2013, Director IT at SPADES, Creative Director SMUDGE, Various Freelance Web Development and Creative Design Projects
+Specialized in computer networks. Lead highly influential student organizations. Founded a creative design agency. 
+
+
+
+Muhammad Bin Sabir
+  3rd degree connection3rd
+Co-Founder at Uplift AI (YC S25) | Building foundation models for underserved languages
+Pakistan  Contact info
+500+ connections
+
+Message
+
+Follow
+
+More
+ActivityActivity
+4,695 followers4,695 followers
+
+
+Posts
+
+Comments
+
+Videos
+
+Documents
+Loaded 9 Posts posts
+Muhammad’s profile photo
+Muhammad Bin Sabir reposted this
+
+View Hammad Malik’s  graphic link
+Hammad MalikHammad Malik
+   • 3rd+Premium • 3rd+
+CEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMSCEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMS
+1w • Edited •  1 week ago • Edited • Visible to anyone on or off LinkedIn
+Introducing hashtag#Balochi Orator: An AI Model that Speaks Balochi with Human-like Realism
+
+As of today, Orator is the world's first Balochi model to achieve human like speech. 
+
+I encourage you to try the model yourself. Request access at https://lnkd.in/dC7RnZBW
+
+And of course, as of now we are better than OpenAI, Google and ElevenLabs in Balochi speech -- by a looong margin :)
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language. 
+
+# What does hashtag#UpliftAI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Make voice technology so good and cost effective that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer forward thinking organizations that have large distribution and can use Voice AI to benefit people. 
+ 👉  Refer at: upliftAI.org/refer-balochi
+
+
+hashtag#Balochi hashtag#Balochistan hashtag#VoiceAI
+…more
+
+
+likecelebratelove
+481
+66 comments
+26 reposts
+
+
+
+
+Muhammad’s profile photo
+Muhammad Bin Sabir reposted this
+
+View Hammad Malik’s  graphic link
+Hammad MalikHammad Malik
+   • 3rd+Premium • 3rd+
+CEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMSCEO UpliftAI (YC S25) | Building Voice AI models for underserved languages | Prev: Apple, Amazon, Cornell, LUMS
+2w • Edited •  2 weeks ago • Edited • Visible to anyone on or off LinkedIn
+Introducing hashtag#Sindhi Orator: An AI Model that Speaks Sindhi with Human-like Realism
+- It outperforms OpenAI, ElevenLabs, Microsoft and all other models.
+- It is 60 times cheaper.
+
+At the moment, Orator is the world's best Sindhi speaking model. I encourage you to try the model yourself. Request access at upliftAI.org/access-sindhi
+
+-----------
+
+# Why does Voice AI matter?
+Coz over 42% of adults in Pakistan cannot read any language.
+
+# What does Uplift AI do?
+- Develop world-leading voice AI for Urdu, Punjabi, Pashto, Sindhi, and Balochi
+- Design voice interfaces that are effortless and natural to use
+- Make voice technology so affordable that businesses can adopt it without hesitation
+
+# How Can You Help?
+Refer forward thinking organizations that have large distribution and can use Voice AI to benefit people. 
+ 👉  Refer at: upliftAI.org/refer-sindhi
+
+hashtag#Sindhi hashtag#Sindh
+…more
+
+
+likelovecelebrate
+1,122
+169 comments
+60 reposts
+
+
+
+
+
+Show all posts
+ExperienceExperience
+Uplift AI logo
+Co-Founder
+Co-Founder
+Uplift AI · Full-timeUplift AI · Full-time
+Jun 2025 - Present · 3 mosJun 2025 to Present · 3 mos
+Lahore, Punjab, Pakistan · On-siteLahore, Punjab, Pakistan · On-site
+Alt Voice logo
+Founder
+Founder
+Alt Voice · Full-timeAlt Voice · Full-time
+Jan 2025 - Apr 2025 · 4 mosJan 2025 to Apr 2025 · 4 mos
+AI interview coach for professionals.AI interview coach for professionals.
+Alt Ventures logo
+Founder
+Founder
+AltAlt
+Jan 2019 - Apr 2025 · 6 yrs 4 mosJan 2019 to Apr 2025 · 6 yrs 4 mos
+A startup accelerator focused on building companies for the Pakistani market. We incubated 7 companies in 2 years. Five of them raised an average $1M in ~6 months.A startup accelerator focused on building companies for the Pakistani market. We incubated 7 companies in 2 years. Five of them raised an average $1M in ~6 months.
+CreditBook logo
+Founding Team Member
+Founding Team Member
+CreditBookCreditBook
+Apr 2020 - Apr 2024 · 4 yrs 1 moApr 2020 to Apr 2024 · 4 yrs 1 mo
+Millions of small businesses have used CreditBook for bookkeeping and micro-loans.Millions of small businesses have used CreditBook for bookkeeping and micro-loans.
+EZO logo
+Product Marketing Manager
+Product Marketing Manager
+EZOEZO
+Dec 2016 - Dec 2018 · 2 yrs 1 moDec 2016 to Dec 2018 · 2 yrs 1 mo
+EducationEducation
+Lahore University of Management Sciences logo
+Lahore University of Management Sciences
+Lahore University of Management Sciences
+Bachelor of Science (BSc), Management ScienceBachelor of Science (BSc), Management Science
+2012 - 2016
